@@ -1,0 +1,7 @@
+This repository contains a Jupyter notebook for the first task (downloading paper) of L@stTenYears project.
+
+# Instructions
+1. Pull/Fork this branch.
+2. Use command prompt and navigate to this directory. Create the necessary environment by running 'make create_env'.
+Alterantively, use any other python environment that contains beautifulsoup4, requests and pandas.
+3. Run the notebook "scraping.ipynb"

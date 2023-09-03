@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip==22.2.2
+  - pip:
+    - pandas
+    - requests
+    - beautifulsoup4
