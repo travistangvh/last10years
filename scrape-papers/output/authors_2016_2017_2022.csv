@@ -1,0 +1,659 @@
+eid,orcid,surname,initials,givenname,affiliation,documents,affiliation_id,city,country,areas,au_id
+9-s2.0-57203238151,,Gillet,D.,Denis,Ecole Polytechnique Fédérale de Lausanne,316,60028186,Lausanne,Switzerland,COMP (291); ENGI (165); SOCI (88),57203238151
+9-s2.0-7003469397,,Starner,T.E.,Thad E.,Georgia Institute of Technology,258,60019647,Atlanta,United States,COMP (550); ENGI (75); MATH (17),7003469397
+9-s2.0-24831962300,0000-0002-4815-9227,Dascalu,M.,Mihai,University Politehnica of Bucharest,239,60003161,Bucharest,United States,COMP (332); MATH (118); SOCI (65),24831962300
+9-s2.0-7003985614,,Konstan,J.A.,Joseph A.,University of Minnesota Twin Cities,180,60029445,Minneapolis,United States,COMP (292); ENGI (31); SOCI (22),7003985614
+9-s2.0-56912991300,0000-0003-3409-4589,de Castro,L.N.,L. N.,Universidade Estadual de Campinas,172,60029570,Campinas,Brazil,COMP (245); MATH (87); ENGI (50),56912991300
+9-s2.0-57205750897,,Yu,Z.,Zhou,Columbia University,109,60030162,New York,United States,COMP (219); SOCI (32); ARTS (22),57205750897
+9-s2.0-6602498748,,Arriaga,R.I.,Rosa Isela,Georgia Institute of Technology,94,60019647,Atlanta,United States,COMP (167); MEDI (24); SOCI (13),6602498748
+9-s2.0-7004272320,,Salzmann,C.,Christophe,Ecole Polytechnique Fédérale de Lausanne,71,60028186,Lausanne,Switzerland,ENGI (64); COMP (58); SOCI (26),7004272320
+9-s2.0-55286416400,0000-0003-4616-4353,Chen,B.,Bodong,University of Minnesota Twin Cities,63,60029445,Minneapolis,United States,COMP (97); SOCI (43); PSYC (2),55286416400
+9-s2.0-57188672704,,Rușeți,Ș.,Ștefan,University Politehnica of Bucharest,59,60003161,Bucharest,United States,COMP (83); MATH (32); SOCI (14),57188672704
+9-s2.0-55918790500,,Hernández-Rizzardini,R.,Rocael,Universidad Galileo,57,60257187,Guatemala City,Guatemala,COMP (80); MATH (21); SOCI (19),55918790500
+9-s2.0-57190941282,0000-0003-0993-0477,Rachmatullah,A.,A.,SRI International,49,60000461,Menlo Park,United States,SOCI (44); COMP (12); BUSI (4),57190941282
+9-s2.0-52663094800,0000-0002-3028-234X,Amado-Salvatierra,H.R.,Héctor R.,Universidad Galileo,49,60257187,Guatemala City,Guatemala,COMP (67); SOCI (18); MATH (12),52663094800
+9-s2.0-7201867694,,Miyagawa,S.,Shigeru,Universidade de São Paulo,33,60008088,Sao Paulo,Brazil,SOCI (29); ARTS (22); PSYC (7),7201867694
+9-s2.0-7101893707,,De Carvalho,M.A.G.,Marco Antônio Garcia,Universidade Estadual de Campinas,33,60029570,Campinas,Brazil,COMP (60); ENGI (8); MATH (6),7101893707
+9-s2.0-35184076100,,Sharrock,R.,Rémi,Télécom Paris,21,60029116,Palaiseau,France,COMP (37); ENGI (5); MATH (3),35184076100
+9-s2.0-51161373600,,Gantayat,N.,Neelamadhav,IBM Research,19,60011048,Yorktown Heights,United States,COMP (33); SOCI (5); BUSI (3),51161373600
+9-s2.0-57200423109,,Corlatescu,D.G.,Dragos Georgian,CrowdStrike,18,129963228,Bucharest,Romania,COMP (26); MATH (10); ENGI (6),57200423109
+9-s2.0-35812109300,,Alozie,N.M.,Nonye M.,SRI International,18,60000461,Menlo Park,United States,COMP (19); SOCI (13); AGRI (6),35812109300
+9-s2.0-57216694167,,Yu,D.,Dian,"University of California, Davis",15,60014439,Davis,United States,COMP (36); SOCI (4); ARTS (3),57216694167
+9-s2.0-58510566300,,Gupta,M.,Monika,IBM Research,14,60011048,Yorktown Heights,United States,COMP (23); MATH (5); BUSI (4),58510566300
+9-s2.0-57216690541,,Davidson,S.,Sam,"University of California, Davis",14,60014439,Davis,United States,SOCI (16); COMP (16); ARTS (6),57216690541
+9-s2.0-57219751720,,Li,Y.,Yu,Columbia University,12,60030162,New York,United States,COMP (25); SOCI (5); ARTS (4),57219751720
+9-s2.0-57188553681,,Irish,I.,India,Georgia Institute of Technology,12,60019647,Atlanta,United States,COMP (24); SOCI (7); PSYC (1),57188553681
+9-s2.0-57215551299,,Bell,A.,Ana,MIT Computer Science &amp; Artificial Intelligence Laboratory,10,60006320,Cambridge,United States,COMP (25); SOCI (5),57215551299
+9-s2.0-57188660776,,Toma,I.,Irina,University Politehnica of Bucharest,10,60003161,Bucuresti,Romania,COMP (12); DECI (4); MATH (2),57188660776
+9-s2.0-56514160400,,Halimi,W.,Wissam,Ecole Polytechnique Fédérale de Lausanne,10,60028186,Lausanne,Switzerland,COMP (15); ENGI (7); SOCI (4),56514160400
+9-s2.0-57221441140,,Su,M.,Mengchen,University of Minnesota Twin Cities,7,60029445,Minneapolis,United States,SOCI (7); COMP (2),57221441140
+9-s2.0-55835439900,,Hiron,M.,Mathias,France-IOI,7,118431693,Paris,France,COMP (19); SOCI (2); MATH (1),55835439900
+9-s2.0-57747328100,,Varma,S.,Sashank,Georgia Institute of Technology,6,60019647,Atlanta,United States,COMP (15); NEUR (4); SOCI (1),57747328100
+9-s2.0-57672326500,,Roy,A.,Anindya,Massachusetts Institute of Technology,6,60022195,Cambridge,United States,COMP (10); SOCI (4); ENGI (1),57672326500
+9-s2.0-57193406317,,Hamonic,E.,Ella,Independent Researcher,6,126562056,Paris,France,COMP (14); SOCI (4),57193406317
+9-s2.0-57484393400,,Yang,H.,Hui,SRI International,5,60000461,Menlo Park,United States,COMP (6); SOCI (4),57484393400
+9-s2.0-57478488200,,Chatterjee,S.,Saurabh,Georgia Institute of Technology,5,60019647,Atlanta,United States,COMP (9); SOCI (1),57478488200
+9-s2.0-23479017000,,Yee,M.,Michael,Lincoln Laboratory,5,60024592,Lexington,United States,COMP (8); BUSI (2); ENGI (2),23479017000
+9-s2.0-57218225588,,Perdue,M.,Meghan,Massachusetts Institute of Technology,4,60022195,Cambridge,United States,COMP (5); SOCI (2); ENGI (1),57218225588
+9-s2.0-57210736022,,Finkelberg,R.,Roy,Georgia Institute of Technology,4,60019647,Atlanta,United States,COMP (8); SOCI (2),57210736022
+9-s2.0-57195435743,,Tailor,C.,Chirag,Georgia Institute of Technology,4,60019647,Atlanta,United States,COMP (10); SOCI (1),57195435743
+9-s2.0-57748618700,,Carter,R.,Ronisha,United States Department of the Air Force,3,60255202,Arlington,United States,COMP (8); MATH (2),57748618700
+9-s2.0-57219173330,,Chen,C.Y.,Chun Yen,Columbia University,3,60030162,New York,United States,COMP (8); MATH (1),57219173330
+9-s2.0-57211190131,,Tulha,C.N.,Carinna Nunes,Universidade Estadual de Campinas,3,60029570,Campinas,Brazil,COMP (3); SOCI (2); ENGI (1),57211190131
+9-s2.0-56801695800,,Jarratt,D.C.,Daniel C.,Infinite Campus,3,128233413,Blaine,United States,COMP (5),56801695800
+9-s2.0-57746675800,,Stein,J.,Julius,Lincoln Laboratory,2,60024592,Lexington,United States,COMP (4),57746675800
+9-s2.0-57385551000,,Pham,D.,Derek,Columbia University,2,60030162,New York,United States,COMP (6),57385551000
+9-s2.0-57384627900,,Yuan,X.,Xun,Zhejiang University,2,60003970,Hangzhou,China,COMP (6),57384627900
+9-s2.0-57217057617,,Olson,L.A.,Lukas A.,Infinite Campus,2,128233413,Blaine,United States,COMP (4),57217057617
+9-s2.0-57748939000,,Keller,R.J.L.,Rebecca J.L.,Infinite Campus,1,128233413,Blaine,United States,COMP (2),57748939000
+9-s2.0-57747325300,,Tan,Y.,Yinghua,Columbia University,1,60030162,New York,United States,COMP (2),57747325300
+9-s2.0-57552608700,,Hou,R.,Ryan,Columbia University,1,60030162,New York,United States,COMP (2),57552608700
+9-s2.0-57194032645,,Carlier,S.,Sebastien,Epixode,1,118431889,Paris,France,COMP (3); SOCI (1),57194032645
+9-s2.0-56187776800,,Meinel,C.,Christoph,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,779,60106550,Potsdam,Germany,COMP (1203); ENGI (224); MATH (162),56187776800
+9-s2.0-7101947159,,Qu,H.,Huamin,Hong Kong University of Science and Technology,271,60008592,Hong Kong,Hong Kong,COMP (777); MEDI (46); ENGI (42),7101947159
+9-s2.0-14041775100,0000-0002-3280-288X,Heffernan,N.T.,Neil T.,Worcester Polytechnic Institute,228,60011410,Worcester,United States,COMP (359); MATH (79); SOCI (59),14041775100
+9-s2.0-6507626386,,Shizuki,B.,Buntarou,University of Tsukuba,141,60014256,Tsukuba,Japan,COMP (296); MATH (54); ENGI (7),6507626386
+9-s2.0-15072338600,0000-0002-6624-9752,Tan,C.W.,Chee Wei,Nanyang Technological University,141,60005510,Singapore City,Singapore,COMP (186); ENGI (84); MATH (44),15072338600
+9-s2.0-14047887300,,Brooks,C.A.,Christopher A.,"University of Michigan, Ann Arbor",96,60025778,Ann Arbor,United States,COMP (203); SOCI (31); MATH (14),14047887300
+9-s2.0-16238467300,,Guo,P.J.,Philip J.,Department of Computer Science and Engineering,88,60121653,San Diego,United States,COMP (178); SOCI (9); MATH (3),16238467300
+9-s2.0-6603866056,,Rugaber,S.,Spencer,Georgia Institute of Technology,79,60019647,Atlanta,United States,COMP (97); ENGI (23); MATH (8),6603866056
+9-s2.0-56144824600,,Reich,J.,Justin,Massachusetts Institute of Technology,70,60022195,Cambridge,United States,COMP (99); SOCI (52); PSYC (7),56144824600
+9-s2.0-8853417600,0000-0001-7533-533X,Sindhgatta,R.R.,Renuka R.,IBM Research,62,60011048,Yorktown Heights,United States,COMP (86); MATH (31); BUSI (8),8853417600
+9-s2.0-57193775768,0000-0002-0092-0793,Wang,Y.,Yong,Singapore Management University,57,60018933,Singapore City,Singapore,COMP (154); MEDI (13); BIOC (6),57193775768
+9-s2.0-56237871000,0000-0002-8595-7922,Staubitz,T.,Thomas,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,47,60106550,Potsdam,Germany,COMP (76); SOCI (34); ENGI (14),56237871000
+9-s2.0-56597707600,,Botelho,A.F.,Anthony F.,University of Florida,34,60013959,Gainesville,United States,COMP (70); SOCI (12); MATH (7),56597707600
+9-s2.0-55314576400,,Jordan,K.,Katy,The Faculty of Education,33,60119764,Cambridge,United Kingdom,SOCI (39); COMP (29); ENGI (5),55314576400
+9-s2.0-7409482654,,Chen,Z.,Zhongzhou,University of Central Florida,30,60022144,Orlando,United States,COMP (27); SOCI (17); PHYS (13),7409482654
+9-s2.0-57205744232,,Thompson,M.M.,Meredith M.,Massachusetts Institute of Technology,27,60022195,Cambridge,United States,COMP (32); SOCI (20); ENGI (5),57205744232
+9-s2.0-57056479100,,Littenberg-Tobias,J.,Joshua,Massachusetts Institute of Technology,24,60022195,Cambridge,United States,COMP (22); SOCI (20); PSYC (5),57056479100
+9-s2.0-57202803261,,Xia,M.,Meng,Carnegie Mellon University,22,60027950,Pittsburgh,United States,COMP (62); ENGI (4); MEDI (3),57202803261
+9-s2.0-57193776363,,Gardner,J.,Josh,University of Washington,19,124242612,Woodinville,United States,COMP (46); SOCI (7); DECI (2),57193776363
+9-s2.0-57053548200,,Hillaire,G.,Garron,Advanced Education Research &amp; Development Fund,18,127964321,Oakland,United States,SOCI (15); COMP (13); MATH (2),57053548200
+9-s2.0-57205670372,0000-0001-9547-3449,Li,H.,Haotian,Hong Kong University of Science and Technology,16,60008592,Hong Kong,Hong Kong,COMP (48); MEDI (3); ENGI (3),57205670372
+9-s2.0-55963526300,,Ellis,S.E.,Shannon E.,"University of California, San Diego",13,60030612,San Diego,United States,BIOC (13); MEDI (9); NEUR (6),55963526300
+9-s2.0-57189378994,0000-0002-9879-2709,Patikorn,T.,Thanaporn,Worcester Polytechnic Institute,12,60011410,Worcester,United States,COMP (23); SOCI (5); MATH (1),57189378994
+9-s2.0-23393290300,,Langlois,M.,Marina,"University of California, San Diego",8,60030612,San Diego,United States,COMP (10); MATH (5); BIOC (3),23393290300
+9-s2.0-57209399328,,Wei,H.,Huan,Hong Kong University of Science and Technology,7,60008592,Hong Kong,Hong Kong,COMP (18); MATH (1); DECI (1),57209399328
+9-s2.0-57205457095,0000-0003-1624-9735,Hang,C.N.,Ching Nam,City University of Hong Kong,7,60013983,Hong Kong,Hong Kong,COMP (12); ENGI (2); MATH (2),57205457095
+9-s2.0-57222491843,,Marvez,G.R.,G. R.,Massachusetts Institute of Technology,6,60022195,Cambridge,United States,COMP (11); MATH (1); SOCI (1),57222491843
+9-s2.0-57215899166,,Steinbeck,H.T.,Hendrik T.,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,6,60106550,Potsdam,Germany,COMP (9); SOCI (1); ENGI (1),57215899166
+9-s2.0-57209780432,,Lau,S.,Samuel,"University of California, San Diego",6,60030612,San Diego,United States,COMP (13); SOCI (1); MATH (1),57209780432
+9-s2.0-57194044631,,Yin,B.,Biao,Worcester Polytechnic Institute,6,60011410,Worcester,United States,COMP (14); DECI (2); ENGI (2),57194044631
+9-s2.0-57748933300,,Hornback,A.,Andrew,Georgia Institute of Technology,5,60019647,Atlanta,United States,COMP (8); MEDI (3); ENGI (2),57748933300
+9-s2.0-57208408234,,Myers,C.,Christina,edtechhub.org,5,130007925,,,COMP (8); SOCI (4),57208408234
+9-s2.0-56865540500,,Eldridge,J.,Justin,"University of California, San Diego",5,60030612,San Diego,United States,COMP (9); MEDI (3); ENGI (2),56865540500
+9-s2.0-57351645600,,Zobel,T.E.I.,Theresa Elfriede Isa,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,4,60106550,Potsdam,Germany,COMP (7); ENGI (2); SOCI (1),57351645600
+9-s2.0-57222587275,,Rampure,S.,Suraj,"University of California, San Diego",4,60030612,San Diego,United States,COMP (5); SOCI (3),57222587275
+9-s2.0-57747327800,,Elhayany,M.,Mohamed,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,3,60106550,Potsdam,Germany,COMP (6),57747327800
+9-s2.0-57258649800,,Nozaki,H.,Hinako,University of Tsukuba,3,60014256,Tsukuba,Japan,COMP (8); ARTS (1); ENGI (1),57258649800
+9-s2.0-57240353500,,Felker,Z.,Zachary,University of Central Florida,3,60022144,Orlando,United States,COMP (2); SOCI (2); PHYS (2),57240353500
+9-s2.0-57224646179,,Li,J.,Jingting,City University of Hong Kong,3,60013983,Kowloon,Hong Kong,COMP (8); MEDI (1); ENGI (1),57224646179
+9-s2.0-57748962200,,Qi,X.,Xintong,Columbia University,2,60030162,New York,United States,COMP (3),57748962200
+9-s2.0-57748933200,,Bunin,S.,Scott,Georgia Institute of Technology,2,60019647,Atlanta,United States,COMP (4),57748933200
+9-s2.0-57748642800,,Nishida,N.,Naoto,The University of Tokyo,2,60025272,Tokyo,Japan,COMP (4); SOCI (1),57748642800
+9-s2.0-57748618800,,O'Brien,S.,Sara,Massachusetts Institute of Technology,2,60022195,Cambridge,United States,COMP (4),57748618800
+9-s2.0-57746695800,,Waldron,R.,Rick,Massachusetts Institute of Technology,2,60022195,Cambridge,United States,COMP (2); PSYC (1); BIOC (1),57746695800
+9-s2.0-56940768300,,Tiefenbruck,J.L.B.,Janine Lo Bue,"University of California, San Diego",2,60030612,San Diego,United States,COMP (2); MATH (1),56940768300
+9-s2.0-57748642500,,Tsung,S.,Sean,Hong Kong University of Science and Technology,1,60008592,Hong Kong,Hong Kong,COMP (2),57748642500
+9-s2.0-57747343800,,Fraenkel,A.,Aaron,"University of California, San Diego",1,60030612,San Diego,United States,COMP (2),57747343800
+9-s2.0-57746999400,,Nair,R.R.,Ranjiraj Rajendran,Otto von Guericke University of Magdeburg,1,60018362,Magdeburg,Germany,COMP (2),57746999400
+9-s2.0-57746670700,,Celestin,W.,Willventchy,Georgia Institute of Technology,1,60019647,Atlanta,United States,COMP (2),57746670700
+9-s2.0-8549413500,,Gašević,D.,Dragan,Monash University,525,60019578,Melbourne,Australia,COMP (906); SOCI (184); MATH (105),8549413500
+9-s2.0-8269962600,,Abbeel,P.,Pieter,"University of California, Berkeley",326,60025038,Berkeley,United States,COMP (635); ENGI (286); SOCI (70),8269962600
+9-s2.0-7006420326,0000-0001-6739-4145,Sadiq,S.W.,Shazia Wasim,The University of Queensland,213,60031004,Brisbane,Australia,COMP (329); MATH (73); BUSI (59),7006420326
+9-s2.0-7004362439,,Krasny,M.E.,Marianne E.,Cornell University,102,60007776,Ithaca,United States,SOCI (73); ENVI (71); AGRI (46),7004362439
+9-s2.0-57192188480,,Hellas,A.,Arto,Aalto University,98,60103653,Espoo,Finland,COMP (171); SOCI (59); BUSI (25),57192188480
+9-s2.0-19639011200,,Laakso,M.J.,Mikko Jussi,Turun yliopisto,84,60006876,Turku,Finland,COMP (134); SOCI (55); ENGI (22),19639011200
+9-s2.0-57156123300,,Leinonen,J.,Juho,The University of Auckland,81,60005686,Auckland,New Zealand,COMP (142); SOCI (45); BUSI (21),57156123300
+9-s2.0-55657281000,,Kizilcec,R.F.,René F.,Cornell Information Science,77,60028072,Ithaca,United States,COMP (132); SOCI (23); MULT (9),55657281000
+9-s2.0-35183234600,,Joyner,D.A.,David A.,Georgia Institute of Technology,69,60019647,Atlanta,United States,COMP (128); SOCI (28); MATH (4),35183234600
+9-s2.0-27368031300,,Khosravi,H.,Hassan,The University of Queensland,66,60031004,Brisbane,Australia,COMP (115); SOCI (22); MATH (14),27368031300
+9-s2.0-14019704700,,Ihantola,P.,Petri,Helsingin Yliopisto,63,60002952,Helsinki,Finland,COMP (113); SOCI (31); BUSI (7),14019704700
+9-s2.0-13005227000,,Gweon,G.,Gahgene,Seoul National University,63,60013682,Seoul,South Korea,COMP (107); SOCI (14); MATH (13),13005227000
+9-s2.0-7006564183,0000-0003-0244-2630,Lemström,K.,Kjell,Helsingin Yliopisto,35,60002952,Helsinki,Finland,COMP (38); MATH (21); ARTS (15),7006564183
+9-s2.0-6603032946,,Lappalainen,V.,Vesa,University of Jyväskylä,18,60032398,Jyvaskyla,Finland,COMP (27); SOCI (11); MATH (2),6603032946
+9-s2.0-57200299897,,Pirttinen,N.,Nea,Helsingin Yliopisto,16,60002952,Helsinki,Finland,COMP (29); SOCI (8); BUSI (4),57200299897
+9-s2.0-57195955075,0000-0003-1236-6600,Serth,S.,Sebastian,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,16,60106550,Potsdam,Germany,COMP (22); SOCI (6); ENGI (6),57195955075
+9-s2.0-6507901112,0000-0002-6039-4801,Tynkkynen,K.,Katja,University of Jyväskylä,14,60032398,Jyvaskyla,Finland,AGRI (23); ENVI (5); BIOC (3),6507901112
+9-s2.0-57190375436,,Bothe,M.,Max,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,14,60106550,Potsdam,Germany,COMP (23); SOCI (9); ENGI (6),57190375436
+9-s2.0-50561748500,,Karayev,S.,Sergey,Turnitin,13,123362167,Oakland,United States,COMP (28); ENGI (2); SOCI (2),50561748500
+9-s2.0-22979798200,,Hedberg,H.,Henrik,University of Oulu,13,60012954,Oulu,Finland,COMP (9); DECI (3); ENGI (3),22979798200
+9-s2.0-57194851520,,Hagedorn,C.,Christiane,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,12,60106550,Potsdam,Germany,COMP (17); SOCI (12); ENGI (8),57194851520
+9-s2.0-56733528800,,Singh,A.,Arjun,Gradescope Inc.,10,118431719,Berkeley,United States,COMP (21); ENGI (16); MATH (2),56733528800
+9-s2.0-57215930238,,Abdi,S.,Solmaz,The University of Queensland,9,60031004,Brisbane,Australia,COMP (18); SOCI (2); MATH (2),57215930238
+9-s2.0-57202432695,0000-0003-3159-0018,Eicher,B.L.,Bobbie Lynn,Georgia Institute of Technology,9,60019647,Atlanta,United States,COMP (13); SOCI (2); MATH (1),57202432695
+9-s2.0-57219052527,,Darvishi,A.,Ali,The University of Queensland,8,60031004,Brisbane,Australia,COMP (8); ENER (4); MATH (3),57219052527
+9-s2.0-15623054000,,Auvinen,A.,Annemari,University of Jyväskylä,8,60032398,Jyvaskyla,Finland,COMP (7); ENGI (5); MATH (1),15623054000
+9-s2.0-57202043077,,Cho,J.,Ji-yong,Cornell University,7,60007776,Ithaca,United States,COMP (13); SOCI (2),57202043077
+9-s2.0-56448682500,,Li,Y.,Yue,Cornell University,7,60007776,Ithaca,United States,COMP (5); SOCI (4); ENVI (1),56448682500
+9-s2.0-57203386946,,Chen,Y.,Youjie,Cornell University,6,60007776,Ithaca,United States,COMP (15); SOCI (2); DECI (1),57203386946
+9-s2.0-57201722565,,Rhim,J.,Jungwook,Seoul National University,5,60013682,Seoul,South Korea,COMP (13); PSYC (1); ARTS (1),57201722565
+9-s2.0-57748316300,,Labat,T.,Thibaud,Institut Polytechnique de Paris,1,60116488,Palaiseau,France,COMP (2),57748316300
+9-s2.0-57747325200,,Tomasik,I.W.,Ian Wilkie,Cornell University,1,60007776,Ithaca,United States,COMP (2),57747325200
+9-s2.0-57747325000,,Zheng,T.,Tianyuan,Massachusetts Institute of Technology,1,60022195,Cambridge,United States,COMP (2),57747325000
+9-s2.0-57746701500,,Collin,E.,Ewen,Institut Polytechnique de Paris,1,60116488,Palaiseau,France,COMP (2),57746701500
+9-s2.0-57746676500,,Lee,J.J.L.,Jennifer Jia Ling,Cornell University,1,60007776,Ithaca,United States,COMP (2),57746676500
+9-s2.0-57746676400,,Fu,A.,Annie,Cornell University,1,60007776,Ithaca,United States,COMP (2),57746676400
+9-s2.0-57194034007,,Gutowski,K.,Kevin,Gradescope Inc.,1,118431719,Berkeley,United States,COMP (3); SOCI (1),57194034007
+9-s2.0-7402349007,,Cross,J.S.,Jeffrey Scott,Tokyo Institute of Technology,133,60031126,Tokyo,Japan,PHYS (69); MATE (62); ENGI (59),7402349007
+9-s2.0-9269552700,,Denny,P.C.,Paul C.,The University of Auckland,126,60005686,Auckland,New Zealand,COMP (194); SOCI (81); BUSI (22),9269552700
+9-s2.0-8366424900,0000-0002-2156-4097,Indulska,M.,Marta,The University of Queensland Business School,116,60160279,Brisbane,Australia,COMP (146); BUSI (53); MATH (31),8366424900
+9-s2.0-15758786800,0000-0002-2291-1468,Stamper,J.C.,John C.,Carnegie Mellon University,101,60027950,Pittsburgh,United States,COMP (151); MATH (32); SOCI (14),15758786800
+9-s2.0-6602750503,,Hollan,J.D.,James D.,"University of California, San Diego",100,60030612,San Diego,United States,COMP (169); PSYC (26); ENGI (17),6602750503
+9-s2.0-7403343284,,Fisher,D.H.,Douglas H.,Vanderbilt University,77,60003915,Nashville,United States,COMP (123); ENGI (23); MATH (23),7403343284
+9-s2.0-34770699900,0000-0003-4267-9608,Johnson,B.G.,Benny G.,VitalSource Technologies,57,126554266,Pittsburgh,United States,CHEM (59); PHYS (57); COMP (18),34770699900
+9-s2.0-57209041720,0000-0003-4150-5980,Soleimani,F.,Farahnaz,Georgia Institute of Technology,35,60019647,Atlanta,United States,ENGI (34); MATH (13); COMP (11),57209041720
+9-s2.0-16643145000,,Narasimham,G.,Gayathri,Vanderbilt University School of Engineering,32,60010060,Nashville,United States,COMP (57); PSYC (11); SOCI (11),16643145000
+9-s2.0-56427427600,,Xia,H.,Haijun,"University of California, San Diego",31,60030612,San Diego,United States,COMP (84); MEDI (2),56427427600
+9-s2.0-6603479539,,Bonfert-Taylor,P.,Petra,Dartmouth College,30,60010756,Hanover,United States,MATH (24); COMP (11); ENGI (6),6603479539
+9-s2.0-6701798072,,Wilkin,N.K.,Nicola K.,University of Birmingham,24,60019702,Birmingham,United Kingdom,PHYS (30); COMP (4); MATE (4),6701798072
+9-s2.0-57189640527,,Chen,Z.,Zhutian,Harvard John A. Paulson School of Engineering and Applied Sciences,24,60077572,Cambridge,United States,COMP (90); MEDI (9),57189640527
+9-s2.0-57145946000,,Moore,S.,Steven,Carnegie Mellon University,22,60027950,Pittsburgh,United States,COMP (35); MATH (6); SOCI (5),57145946000
+9-s2.0-57190013027,0000-0002-5572-276X,Feng,S.,Shihui,The University of Hong Kong,18,60006541,Hong Kong,Hong Kong,COMP (13); SOCI (13); MEDI (8),57190013027
+9-s2.0-42062446600,,Thille,C.,Candace,Stanford University,15,60012708,Palo Alto,United States,COMP (33); SOCI (5); MULT (1),42062446600
+9-s2.0-57218310697,0000-0001-8404-6513,Van Campenhout,R.,Rachel,VitalSource Technologies,14,126554266,Pittsburgh,United States,COMP (20); MATH (6); SOCI (1),57218310697
+9-s2.0-57219710532,,Lee,J.,Jeonghyun,Georgia Institute of Technology,12,60019647,Atlanta,United States,COMP (17); SOCI (8); ARTS (2),57219710532
+9-s2.0-56763614900,,Houston,S.L.,Stacey L.,George Mason University,11,60018319,Fairfax,United States,SOCI (13); COMP (5); ENGI (3),56763614900
+9-s2.0-57218312336,,Jerome,B.,Bill,VitalSource Technologies,10,126554266,Pittsburgh,United States,COMP (16); MATH (3),57218312336
+9-s2.0-57194430378,,Dittel,J.S.,Jeffrey S.,VitalSource Technologies,9,126554266,Pittsburgh,United States,COMP (13); MATH (2); MEDI (2),57194430378
+9-s2.0-56597582100,,Brady,K.A.,Katherine A.,Vanderbilt University,8,60003915,Nashville,United States,COMP (14); SOCI (7); ENGI (3),56597582100
+9-s2.0-57220789724,0000-0001-9600-4265,Yang,B.,Bo,Göteborgs Universitet,7,60016437,Gothenburg,Sweden,COMP (13); SOCI (6); PSYC (2),57220789724
+9-s2.0-57215928305,,Shabaninejad,S.,Shiva,The University of Queensland,6,60031004,Brisbane,Australia,COMP (10); MATH (2); SOCI (1),57215928305
+9-s2.0-57193578627,,Fikes,T.G.,Thomas G.,Arizona State University,6,60003892,Tempe,United States,COMP (9); PSYC (2); SOCI (2),57193578627
+9-s2.0-57219667773,,Boonyubol,S.,Sasipa,Tokyo Institute of Technology,5,60031126,Tokyo,Japan,ENER (7); CENG (2); COMP (2),57219667773
+9-s2.0-57148138000,0000-0002-1240-7348,Goudzwaard,M.,Michael,Dartmouth College,5,60010756,Hanover,United States,COMP (10); SOCI (2); MATH (1),57148138000
+9-s2.0-55577203900,,Urrea,C.,Claudia,Massachusetts Institute of Technology,5,60022195,Cambridge,United States,SOCI (4); COMP (3); PSYC (2),55577203900
+9-s2.0-57747667300,,Kabir,S.,Shahriar,Tokyo Institute of Technology,4,60031126,Tokyo,Japan,CHEM (4); ENGI (3); COMP (2),57747667300
+9-s2.0-57746993400,0000-0001-6822-8392,Chhabra,P.,Pallavi,Carnegie Mellon University,4,60027950,Pittsburgh,United States,COMP (6); SOCI (2); ENGI (1),57746993400
+9-s2.0-57748962700,,Meaney,M.J.,Michael Joseph,Arizona State University,3,60003892,Tempe,United States,COMP (5); SOCI (1),57748962700
+9-s2.0-57748614200,,Chine,D.R.,Danielle R.,Carnegie Mellon University,3,60027950,Pittsburgh,United States,COMP (5); MATH (1); ENGI (1),57748614200
+9-s2.0-57374501100,,Yilmaz Soylu,M.,Meryem,Georgia Institute of Technology,3,60019647,Atlanta,United States,COMP (3); SOCI (1); PSYC (1),57374501100
+9-s2.0-57219405608,,Tomlinson,A.A.,Austin A.,University of Birmingham,3,60019702,Birmingham,United Kingdom,COMP (2); PHYS (1); MULT (1),57219405608
+9-s2.0-57211588358,,Kainth,M.,Manjinder,6Bit Education Ltd,3,128232753,Birmingham,United Kingdom,COMP (4); MATH (1); PHYS (1),57211588358
+9-s2.0-57747638500,,Chen,X.,Xiuyu,The University of Hong Kong,2,60006541,Hong Kong,Hong Kong,COMP (3); SOCI (1),57747638500
+9-s2.0-57747638300,,Stanyon,R.,Robert,University of Birmingham,2,60019702,Birmingham,United Kingdom,COMP (4),57747638300
+9-s2.0-57221912395,,Karhan,A.J.,Andrew J.,Cornell University,2,60007776,Ithaca,United States,COMP (2); SOCI (1); BUSI (1),57221912395
+9-s2.0-57748641100,,He,H.,Huyang,Chengdu Yulin High School,1,114547081,Chengdu,China,COMP (2),57748641100
+9-s2.0-57748637800,,Ng,H.,Huixin,"University of California, San Diego",1,60030612,San Diego,United States,COMP (2),57748637800
+9-s2.0-57746701700,,Mimno,J.A.,Jennifer A.,Cornell University,1,60007776,Ithaca,United States,COMP (2),57746701700
+9-s2.0-14029922900,,Hui,P.,Pan,Hong Kong University of Science and Technology,494,60008592,Hong Kong,Hong Kong,COMP (972); ENGI (198); MATH (53),14029922900
+9-s2.0-7202710483,,McNamara,D.S.,Danielle S.,Arizona State University,414,60003892,Tempe,United States,COMP (355); SOCI (230); PSYC (185),7202710483
+9-s2.0-6603678234,,Koedinger,K.R.,Kenneth R.,Carnegie Mellon University,332,60027950,Pittsburgh,United States,COMP (452); MATH (104); SOCI (99),6603678234
+9-s2.0-7003266859,,Rosson,M.B.,Mary Beth,Pennsylvania State University,305,60001439,University Park,United States,COMP (495); SOCI (80); ENGI (75),7003266859
+9-s2.0-7007021839,0000-0002-0024-5847,Karger,D.R.,David R.,Massachusetts Institute of Technology,253,60022195,Cambridge,United States,COMP (426); MATH (90); ENGI (54),7007021839
+9-s2.0-7406514710,,Mitchell,J.C.,John C.,Stanford University,237,60012708,Palo Alto,United States,COMP (306); MATH (81); ENGI (61),7406514710
+9-s2.0-56242668800,0000-0002-9847-7784,Ma,X.,Xiaojuan,Hong Kong University of Science and Technology,196,60008592,Hong Kong,Hong Kong,COMP (453); SOCI (52); ENGI (36),56242668800
+9-s2.0-36867775200,,West,M.,Matthew,University of Illinois Urbana-Champaign,152,60000745,Urbana,United States,COMP (86); ENGI (75); MATH (65),36867775200
+9-s2.0-9270541300,0000-0002-1114-2819,Asensio-Pérez,J.I.,Juan I.,Universidad de Valladolid,146,60024695,Valladolid,Spain,COMP (179); SOCI (79); MATH (30),9270541300
+9-s2.0-7005219969,0000-0003-1180-682X,Scanlon,E.,Eileen,The Open University,138,60012113,Milton Keynes,United Kingdom,SOCI (130); COMP (91); MATH (14),7005219969
+9-s2.0-6507192872,0000-0002-8825-0412,Bote-Lorenzo,M.L.,Miguel L.,Universidad de Valladolid,102,60024695,Valladolid,Spain,COMP (145); SOCI (34); MATH (27),6507192872
+9-s2.0-55983407600,0000-0002-1446-889X,Xing,W.,Wanli,University of Florida,100,60013959,Gainesville,United States,COMP (110); SOCI (70); PSYC (11),55983407600
+9-s2.0-6602243123,,Zilles,C.B.,Craig B.,University of Illinois Urbana-Champaign,94,60000745,Urbana,United States,COMP (114); SOCI (41); ENGI (21),6602243123
+9-s2.0-23393086500,,Leite,W.L.,Walter Lana,University of Florida,93,60013959,Gainesville,United States,SOCI (73); PSYC (65); MATH (43),23393086500
+9-s2.0-57204538687,,Garcia,D.D.,Daniel D.,"University of California, Berkeley",86,60025038,Berkeley,United States,COMP (97); SOCI (56); ENGI (7),57204538687
+9-s2.0-6603705526,,Facciotti,M.T.,Marc T.,"University of California, Davis",66,60014439,Davis,United States,BIOC (92); COMP (32); MEDI (31),6603705526
+9-s2.0-55496964900,,Singh,R.,Rishabh,Google LLC,66,60006191,Mountain View,United States,COMP (97); SOCI (20); MATH (14),55496964900
+9-s2.0-37111011800,,Herodotou,C.,Christothea,The Open University,66,60012113,Milton Keynes,United Kingdom,COMP (64); SOCI (51); ENVI (7),37111011800
+9-s2.0-55663517700,0000-0002-6916-9213,Vega-Gorgojo,G.,Guillermo,Universidad de Valladolid,63,60024695,Valladolid,Spain,COMP (82); SOCI (20); MATH (14),55663517700
+9-s2.0-55892530500,,Zhang,A.X.,Amy X.,University of Washington,53,60015481,Seattle,United States,COMP (125); SOCI (13); ENGI (2),55892530500
+9-s2.0-55142243300,,Piech,C.,Chris,Stanford University,48,60012708,Palo Alto,United States,COMP (80); SOCI (19); PSYC (4),55142243300
+9-s2.0-6701471749,,Igo,M.M.,Michèle M.,"University of California, Davis",30,60014439,Davis,United States,IMMU (27); COMP (17); BIOC (13),6701471749
+9-s2.0-57208421439,,Li,C.,Chenglu,University of Florida,30,60013959,Gainesville,United States,COMP (37); SOCI (20); ENGI (6),57208421439
+9-s2.0-56893094500,,Carter,R.A.,Richard Allen,University of Wyoming,29,60008827,Laramie,United States,SOCI (29); COMP (14); PSYC (8),56893094500
+9-s2.0-55314411800,,Balyan,R.,Renu,SUNY Old Westbury,27,60009812,Old Westbury,United States,COMP (25); SOCI (13); MEDI (11),55314411800
+9-s2.0-23492963300,0000-0003-3084-5189,MacLellan,C.J.,Christopher J.,Georgia Institute of Technology,27,60019647,Atlanta,United States,COMP (39); ENGI (4); MATH (4),23492963300
+9-s2.0-57209368772,,Shin,J.,Jinnie,University of Florida,19,60013959,Gainesville,United States,SOCI (13); PSYC (9); COMP (9),57209368772
+9-s2.0-56534256300,,Banawan,M.P.,Michelle P.,Asian Institute of Management,18,129832102,Mandaluyong,Philippines,COMP (40); SOCI (14); ENGI (1),56534256300
+9-s2.0-55875818700,,Robertson,D.A.,Dana A.,Virginia Polytechnic Institute and State University,18,60027090,Blacksburg,United States,SOCI (21); ARTS (6); MEDI (5),55875818700
+9-s2.0-57205283169,,Ul Haq,E.,Ehsan,Hong Kong University of Science and Technology,16,60008592,Hong Kong,Hong Kong,COMP (33); SOCI (8); DECI (4),57205283169
+9-s2.0-57001542000,,Wang,K.,Ke,Visa Inc.,14,60095780,San Francisco,United States,COMP (21); ENGI (4); SOCI (3),57001542000
+9-s2.0-57194035737,,Chen,B.,Binglin,University of Illinois Urbana-Champaign,13,60000745,Urbana,United States,COMP (20); SOCI (8); MATH (2),57194035737
+9-s2.0-36710817100,0000-0002-4647-4282,Wiltrout,M.E.,Mary Ellen,Massachusetts Institute of Technology,13,60022195,Cambridge,United States,COMP (15); SOCI (7); BIOC (6),36710817100
+9-s2.0-57213149571,,Hunt,T.L.,Tiffany L.,University of Wyoming,12,60008827,Laramie,United States,SOCI (11); COMP (5); PSYC (4),57213149571
+9-s2.0-57189075337,,Adeniran,A.,Adetunji,Carnegie Mellon University,12,60027950,Pittsburgh,United States,COMP (17); MATH (6); ENGI (2),57189075337
+9-s2.0-57391369900,,Gupta,S.,Shivang,Carnegie Mellon University,6,60027950,Pittsburgh,United States,COMP (11); MATH (3); ENGI (1),57391369900
+9-s2.0-57224625901,,Charitsis,C.,Charis,Stanford University,6,60012708,Palo Alto,United States,COMP (12); SOCI (2),57224625901
+9-s2.0-57223128215,,Hadi Mogavi,R.,Reza,Hong Kong University of Science and Technology,6,60008592,Hong Kong,Hong Kong,COMP (12); SOCI (3),57223128215
+9-s2.0-57219053429,0000-0001-5121-0786,García-Zarza,P.,Pablo,Universidad de Valladolid,6,60024695,Valladolid,Spain,COMP (11); MATH (3); SOCI (2),57219053429
+9-s2.0-57747321600,,Robins,A.,Andey,University of Wyoming,3,60008827,Laramie,United States,COMP (3); ENGI (2),57747321600
+9-s2.0-57574710200,,Zhang,Y.,Yuanhao,Hong Kong University of Science and Technology,3,60008592,Hong Kong,Hong Kong,COMP (7); SOCI (1),57574710200
+9-s2.0-58446967400,,Robert,J.,Jenay,Educause,1,116987879,Washington,United States,COMP (2),58446967400
+9-s2.0-58376758800,,Zhang,Q.,Qiao,Drexel University,1,60014662,Philadelphia,United States,COMP (2),58376758800
+9-s2.0-57748294000,,Li,X.V.,Xiaotian Vivian,Pennsylvania State University,1,60001439,University Park,United States,COMP (2),57748294000
+9-s2.0-57574366100,,Guo,B.,Bingcan,Hong Kong University of Science and Technology,1,60008592,Hong Kong,Hong Kong,COMP (2),57574366100
+9-s2.0-57194044497,,Lin,B.,Benjamin,Microsoft Corporation,1,60026532,Redmond,United States,COMP (3); SOCI (1),57194044497
+9-s2.0-57194043854,,Rettig,B.,Bjorn,Microsoft Corporation,1,60026532,Redmond,United States,COMP (3); SOCI (1),57194043854
+9-s2.0-57194043802,,Pardi,P.,Paul,Microsoft Corporation,1,60026532,Redmond,United States,COMP (3); SOCI (1),57194043802
+9-s2.0-57194040383,,Riley,C.,Ceri,Massachusetts Institute of Technology,1,60022195,Cambridge,United States,COMP (3); SOCI (1),57194040383
+9-s2.0-57194034922,,Thornton,S.,Sera,Massachusetts Institute of Technology,1,60022195,Cambridge,United States,COMP (3); SOCI (1),57194034922
+9-s2.0-35232046000,,Zhai,C.,Chengxiang,University of Illinois Urbana-Champaign,373,60000745,Urbana,United States,COMP (522); SOCI (57); BUSI (54),35232046000
+9-s2.0-14053463100,0000-0001-8856-4617,D’Mello,S.K.,Sidney K.,University of Colorado Boulder,303,60000221,Boulder,United States,COMP (388); PSYC (97); SOCI (71),14053463100
+9-s2.0-8912010400,,Dillenbourg,P.,Pierre,Ecole Polytechnique Fédérale de Lausanne,278,60028186,Lausanne,Switzerland,COMP (429); SOCI (117); ENGI (63),8912010400
+9-s2.0-6701747952,,Michailidis,G.C.,George C.,University of Florida,273,60013959,Gainesville,United States,MATH (225); COMP (194); BIOC (97),6701747952
+9-s2.0-7005959715,,Dow,S.P.,Steven P.,"University of California, San Diego",135,60030612,San Diego,United States,COMP (290); SOCI (17); ENGI (13),7005959715
+9-s2.0-15050959300,0000-0002-4371-7701,Ochoa,X.,Xavier,New York University,99,60021784,New York,United States,COMP (177); SOCI (53); ENGI (13),15050959300
+9-s2.0-7403213861,0000-0001-8794-8651,Davis,K.,Katie,University of Washington,59,118524176,Pullman,United States,COMP (61); SOCI (44); PSYC (12),7403213861
+9-s2.0-6602396756,,Hadzilacos,T.,Thanasis,Open University of Cyprus,56,60108559,Nicosia,Cyprus,COMP (75); SOCI (20); ENGI (13),6602396756
+9-s2.0-8945106100,,Alexandron,G.,Giora,Weizmann Institute of Science Israel,39,60017563,Rehovot,Israel,COMP (54); SOCI (21); MATH (7),8945106100
+9-s2.0-7801322507,0000-0002-3664-6490,Karkare,A.,Amey,Indian Institute of Technology Kanpur,37,60021988,Kanpur,India,COMP (57); SOCI (6); BUSI (6),7801322507
+9-s2.0-37035732200,0000-0002-6840-7718,Gamage,D.,Dilrukshi,Tokyo Institute of Technology,33,60031126,Tokyo,Japan,COMP (75); SOCI (11); ENGI (5),37035732200
+9-s2.0-35796839400,0000-0002-2632-8448,Håklev,S.,Stian,Minerva Project,24,113725028,San Francisco,United States,COMP (25); SOCI (16); MATH (4),35796839400
+9-s2.0-57189242354,0000-0003-3483-0451,Shen,Z.,Zuchao,University of Florida,16,60013959,Gainesville,United States,SOCI (15); PSYC (8); MEDI (4),57189242354
+9-s2.0-55637377400,,Geigle,C.,Chase,University of Illinois Urbana-Champaign,16,60000745,Urbana,United States,COMP (34); SOCI (8); ARTS (2),55637377400
+9-s2.0-57199839343,,Xiong,X.,Xiaolu,Worcester Polytechnic Institute,13,60011410,Worcester,United States,COMP (26); SOCI (5); MATH (2),57199839343
+9-s2.0-15849923300,,Yen,Y.C.G.,Yu Chun Grace,"University of California, San Diego",11,60030612,San Diego,United States,COMP (20); MATH (4); ENGI (2),15849923300
+9-s2.0-57224527145,,Kuang,H.,Huan,University of Florida,10,60013959,Gainesville,United States,COMP (10); SOCI (6); MATH (3),57224527145
+9-s2.0-57194028967,,Faucon,L.P.,Louis P.,Ecole Polytechnique Fédérale de Lausanne,9,60028186,Lausanne,Switzerland,COMP (16); SOCI (6); ENGI (2),57194028967
+9-s2.0-8986671900,0000-0002-7176-3553,Porter,G.W.,Gavin W.,Harvard Medical School,8,60002746,Boston,United States,BIOC (3); SOCI (3); COMP (2),8986671900
+9-s2.0-57194033401,,Boughoula,A.,Assma,University of Illiois Urbana-Champaign,8,124227873,Champaign,United States,COMP (21); SOCI (4),57194033401
+9-s2.0-57194028898,,Zhao,S.,Siyuan,Worcester Polytechnic Institute,5,60011410,Worcester,United States,COMP (11); SOCI (2),57194028898
+9-s2.0-57486252700,,Chakraborty,N.,Nilanjana,University of Pennsylvania,4,60006297,Philadelphia,United States,COMP (6); DECI (1); MATH (1),57486252700
+9-s2.0-57484057200,,McMahon,C.,Connor,"University of California, Berkeley",4,60025038,Berkeley,United States,COMP (6); SOCI (2),57484057200
+9-s2.0-57224642578,,Williamson,K.,Kimberly,Cornell University,4,60007776,Ithaca,United States,COMP (9); MATH (1),57224642578
+9-s2.0-57194036370,,Liu,L.Y.,Larry Y.,Stanford University,3,60012708,Palo Alto,United States,COMP (5); ENVI (1); SOCI (1),57194036370
+9-s2.0-57748933400,,Garcia,Y.,Yuan,Mills High School,2,128232731,Millbrae,United States,COMP (4),57748933400
+9-s2.0-57747666600,,Nakai,K.,Kendall,Microsoft Corporation,2,60026532,Redmond,United States,COMP (6),57747666600
+9-s2.0-57214481793,,Agarwal,N.,Nimisha,Indian Institute of Technology Kanpur,2,60021988,Kanpur,India,COMP (6),57214481793
+9-s2.0-57194036986,,Wang,L.,Lisa,Stanford University,2,60012708,Palo Alto,United States,COMP (5); SOCI (1),57194036986
+9-s2.0-57194035240,,Sy,A.,Angela,Stanford University,2,60012708,Palo Alto,United States,COMP (5); SOCI (1),57194035240
+9-s2.0-57748640700,,Perach,S.,Shai,Weizmann Institute of Science Israel,1,60017563,Rehovot,Israel,COMP (2),57748640700
+9-s2.0-57194041435,,Zhang,Y.,Yaqiong,Worcester Polytechnic Institute,1,60011410,Worcester,United States,COMP (3); SOCI (1),57194041435
+9-s2.0-35580714600,,Baraniuk,R.G.,Richard G.,Rice University,521,60005286,Houston,United States,COMP (702); ENGI (349); MATH (133),35580714600
+9-s2.0-7402034833,0000-0001-5189-337X,Carroll,J.M.,John M.,Pennsylvania State University,476,60001439,University Park,United States,COMP (777); SOCI (165); ENGI (116),7402034833
+9-s2.0-8967971100,,Baker,R.S.J.D.,Ryan Shaun Joazeiro D.,University of Pennsylvania,339,60006297,Philadelphia,United States,COMP (499); SOCI (118); MATH (99),8967971100
+9-s2.0-7005049755,,McCaffrey,D.F.,Daniel F.,Educational Testing Service,172,60009019,Princeton,United States,MEDI (129); SOCI (95); PSYC (75),7005049755
+9-s2.0-54783210900,0000-0001-5660-248X,Perera,I.,Indika,University of Moratuwa,162,60071105,Moratuwa,Sri Lanka,COMP (291); ENGI (125); SOCI (55),54783210900
+9-s2.0-6603548311,0000-0003-2219-0506,Roschelle,J.M.,Jeremy M.,Digital Promise,112,120491454,San Mateo,United States,COMP (93); SOCI (81); PSYC (17),6603548311
+9-s2.0-56159570600,,Williams,J.J.,Joseph Jay,National University of Singapore,112,60017161,Singapore City,Singapore,COMP (193); SOCI (35); PSYC (19),56159570600
+9-s2.0-24723328900,,Szabo,C.M.,Claudia M.,The University of Adelaide,109,60009512,Adelaide,Australia,COMP (144); MATH (45); SOCI (25),24723328900
+9-s2.0-14631557200,,Falkner,N.J.G.,Nickolas J.G.,The University of Adelaide,91,60009512,Adelaide,Australia,COMP (150); SOCI (32); ENGI (17),14631557200
+9-s2.0-35213363500,,Madnani,N.,Nitin,Educational Testing Service,84,60009019,Princeton,United States,COMP (132); SOCI (63); ARTS (41),35213363500
+9-s2.0-7003578768,,Bursteín,J.C.,Jill C.,Duolingo,76,113606571,Pittsburgh,United States,COMP (71); SOCI (59); ARTS (27),7003578768
+9-s2.0-8987398200,0000-0001-7295-9059,Roll,I.,Ido,Technion - Israel Institute of Technology,73,60022403,Haifa,Israel,COMP (76); SOCI (35); MATH (25),8987398200
+9-s2.0-14063952500,0000-0002-0292-2039,Sabatini,J.P.,John P.,University of Memphis,72,60028599,Memphis,United States,SOCI (73); PSYC (46); COMP (33),14063952500
+9-s2.0-57193883534,0000-0003-1989-6057,Marras,M.,Mirko,Università degli Studi di Cagliari,68,60032259,Cagliari,Italy,COMP (119); MATH (21); ENGI (8),57193883534
+9-s2.0-35732151500,,Ritter,S.N.,Steven N.,Carnegie Institute,64,126173372,Carnegie,United States,COMP (90); MATH (18); SOCI (11),35732151500
+9-s2.0-57193199650,,Sales,A.C.,Adam C.,Worcester Polytechnic Institute,42,60011410,Worcester,United States,COMP (26); SOCI (21); MEDI (16),57193199650
+9-s2.0-36617843000,0000-0003-2329-7831,Lomas,J.D.,James Derek,Delft University of Technology,41,60006288,Delft,Netherlands,COMP (74); MEDI (7); ENGI (7),36617843000
+9-s2.0-57212566440,,Nguyen,H.A.,Huy Anh,Carnegie Mellon University,37,60027950,Pittsburgh,United States,COMP (57); MATH (14); SOCI (13),57212566440
+9-s2.0-56277973900,0000-0001-9188-0362,Tsai,C.,Chunhua,University of Nebraska Omaha,37,60018988,Omaha,United States,COMP (74); SOCI (11); ENGI (5),56277973900
+9-s2.0-55255570700,,Käser,T.,Tanja,EPFL,37,126034670,Ecublens,Switzerland,COMP (58); SOCI (9); MATH (9),55255570700
+9-s2.0-26430745000,0000-0002-4538-4883,Fernando,M.S.D.D.,M. S. D D.,University of Moratuwa,37,60071105,Moratuwa,Sri Lanka,COMP (61); ENGI (16); SOCI (12),26430745000
+9-s2.0-35767508100,,Bicknell,K.,Klinton,Duolingo,34,113606571,Pittsburgh,United States,COMP (31); PSYC (20); ARTS (19),35767508100
+9-s2.0-8689592000,,Motz,B.A.,Benjamin A.,Indiana University Bloomington,30,60021121,Bloomington,United States,COMP (26); PSYC (24); NEUR (13),8689592000
+9-s2.0-57190766981,0000-0002-0602-1406,Doroudi,S.,Shayan,"University of California, Irvine",26,60007278,Irvine,United States,COMP (35); SOCI (10); MATH (4),57190766981
+9-s2.0-57191996823,0000-0002-6395-7833,Whiting,M.E.,Mark E.,School of Engineering and Applied Science,17,60102562,Philadelphia,United States,COMP (29); PSYC (7); SOCI (7),57191996823
+9-s2.0-57211969221,,Prihar,E.B.,Ethan B.,Worcester Polytechnic Institute,12,60011410,Worcester,United States,COMP (19); MATH (6); ENGI (1),57211969221
+9-s2.0-56568209400,0000-0002-0597-3528,Basu Mallick,D.,Debshila,Rice University,10,60005286,Houston,United States,COMP (10); NEUR (3); PSYC (3),56568209400
+9-s2.0-57747961800,,Haim,A.,Aaron,Worcester Polytechnic Institute,8,60011410,Worcester,United States,COMP (16); MATH (2),57747961800
+9-s2.0-57194037853,,Perez,S.,Sarah,Iowa State University,7,60004354,Ames,United States,COMP (7); SOCI (4); MATH (3),57194037853
+9-s2.0-56024878700,,Fratamico,L.,Lauren,"Twitter, Inc.",7,60108992,San Francisco,United States,COMP (11); SOCI (4); MATH (1),56024878700
+9-s2.0-57350282300,,Swamy,V.,Vinitra,EPFL,6,127587635,Lauzanne,Switzerland,COMP (12); MATH (2); SOCI (1),57350282300
+9-s2.0-57226000310,,Li,N.,Na,Pennsylvania State University,5,60001439,University Park,United States,COMP (12); ENGI (2); SOCI (1),57226000310
+9-s2.0-57221149159,,Singh,A.,Anjali,"University of Michigan, Ann Arbor",5,60025778,Ann Arbor,United States,COMP (9); SOCI (2); MATH (1),57221149159
+9-s2.0-57226338595,,Martello,E.,Enrico,University of Birmingham,4,60019702,Birmingham,United Kingdom,PHYS (4); COMP (2); MEDI (1),57226338595
+9-s2.0-57194035968,,Dreier,K.,Kelsey,Educational Testing Service,4,60009019,Princeton,United States,PSYC (4); SOCI (4); COMP (3),57194035968
+9-s2.0-57188768950,,Rajapakshe,T.,Thejan,University of Southern Queensland,3,60020321,Toowoomba,Australia,COMP (10); SOCI (1),57188768950
+9-s2.0-56601312700,,Biggers,K.,Kietha,Educational Testing Service,3,60009019,Princeton,United States,COMP (6); SOCI (3); ARTS (1),56601312700
+9-s2.0-55349433500,,Thilakarathne,H.,Haritha,Stanford University,3,60012708,Palo Alto,United States,COMP (10); SOCI (1),55349433500
+9-s2.0-57222092705,,Serpi,A.,Alex,Pennsylvania State University,2,60001439,University Park,United States,COMP (4); ENGI (2); SOCI (1),57222092705
+9-s2.0-57748302200,,Romera Rodriguez,G.,Guillermo,Pennsylvania State University,1,60001439,University Park,United States,COMP (2),57748302200
+9-s2.0-57747007200,,Bhatt,P.,Parth,Pennsylvania State University,1,60001439,University Park,United States,COMP (2),57747007200
+9-s2.0-57746686400,,Xu,Y.,Yuqiao,"University of Michigan, Ann Arbor",1,60025778,Ann Arbor,United States,COMP (2),57746686400
+9-s2.0-7405248281,,Moore,J.D.,Johanna D.,The University of Edinburgh,155,60027272,Edinburgh,United Kingdom,COMP (232); SOCI (72); ARTS (54),7405248281
+9-s2.0-7004182688,0000-0003-0309-4332,Falkner,K.E.,Katrina Elizabeth,The University of Adelaide,123,60009512,Adelaide,Australia,COMP (205); SOCI (53); MATH (19),7004182688
+9-s2.0-18134021100,0000-0002-6189-6424,Lei,C.U.,Chi-Un Un,The University of Hong Kong,106,60006541,Hong Kong,Hong Kong,COMP (97); ENGI (69); SOCI (34),18134021100
+9-s2.0-7403532386,,Beck,J.E.,Joseph E.,Worcester Polytechnic Institute,103,60011410,Worcester,United States,COMP (136); MATH (48); SOCI (13),7403532386
+9-s2.0-23091281300,,Pardos,Z.A.,Zachary A.,"University of California, Berkeley",93,60025038,Berkeley,United States,COMP (151); SOCI (21); MATH (20),23091281300
+9-s2.0-12446550300,,Tingley,D.H.,Dustin H.,Harvard University,88,60009982,Cambridge,United States,SOCI (108); COMP (35); PSYC (17),12446550300
+9-s2.0-55837206800,0000-0001-6999-3547,Joksimović,S.,Srećko,University of South Australia,78,60031846,Adelaide,Australia,COMP (137); SOCI (45); ENGI (6),55837206800
+9-s2.0-39361826000,0000-0001-6348-4127,Kim,J.,Juho,Korea Advanced Institute of Science and Technology,70,60032144,Daejeon,South Korea,COMP (172); SOCI (14); ENGI (1),39361826000
+9-s2.0-55096902400,,Kovanovíc,V.,Vitomir,University of South Australia,69,60031846,Adelaide,Australia,COMP (119); SOCI (41); ENGI (6),55096902400
+9-s2.0-55920072000,0000-0002-8280-0348,Yudelson,M.V.,Michael V.,Carnegie Mellon University,63,60027950,Pittsburgh,United States,COMP (84); MATH (16); SOCI (12),55920072000
+9-s2.0-14066713400,,Varma,S.,Sashank,Georgia Institute of Technology,43,60019647,Atlanta,United States,PSYC (33); SOCI (22); COMP (15),14066713400
+9-s2.0-35261668200,,Dowell,N.M.M.,Nia M.M.,"University of California, Irvine",39,60007278,Irvine,United States,COMP (54); SOCI (18); PSYC (11),35261668200
+9-s2.0-37662375700,,Tutwiler,M.S.,Michael Shane,The University of Rhode Island,33,60010806,Kingston,United States,SOCI (29); COMP (14); PSYC (9),37662375700
+9-s2.0-55802499900,0000-0002-7657-3089,Stewart,B.M.,Brandon M.,Princeton University,29,60003269,Princeton,United States,SOCI (30); COMP (20); MEDI (3),55802499900
+9-s2.0-56988397200,,Peterson,J.C.,Joshua C.,Princeton University,28,60003269,Princeton,United States,COMP (49); NEUR (16); PSYC (6),56988397200
+9-s2.0-25640587600,0000-0002-1152-3443,Farrow,E.,Elaine,The University of Edinburgh,26,60027272,Edinburgh,United Kingdom,COMP (50); SOCI (10); MATH (6),25640587600
+9-s2.0-36741749900,0000-0002-9963-4155,Kay,J.S.,Jennifer S.,Rowan University,24,60016602,Glassboro,United States,COMP (36); ENGI (11); SOCI (9),36741749900
+9-s2.0-56050906500,0000-0001-9444-8356,Gonda,D.E.,Donn Emmanuel,The University of Hong Kong,20,60006541,Hong Kong,Hong Kong,COMP (29); SOCI (19); ENGI (17),56050906500
+9-s2.0-57190018738,,Yeomans,M.,Michael,Imperial College Business School,18,60116484,London,United Kingdom,COMP (12); SOCI (9); PSYC (9),57190018738
+9-s2.0-57203392525,0000-0002-2375-3537,Yu,R.,Renzhe,Columbia University,17,60030162,New York,United States,COMP (24); SOCI (9); PSYC (2),57203392525
+9-s2.0-57215307959,0000-0002-7346-2332,Carlon,M.K.J.,May Kristine Jonson,Tokyo Institute of Technology,15,60031126,Tokyo,Japan,COMP (17); SOCI (14); ENGI (4),57215307959
+9-s2.0-57193276567,,Cheng,H.,Haofei,Carnegie Mellon University,15,60027950,Pittsburgh,United States,COMP (40); SOCI (5); MATH (1),57193276567
+9-s2.0-57188817517,,Zhao,Q.,Qian,Bloomberg L.P.,14,60098440,New York,United States,COMP (33); ENGI (4); SOCI (1),57188817517
+9-s2.0-57193546914,,Yu,B.,Bowen,University of Minnesota Twin Cities,12,60029445,Minneapolis,United States,COMP (33); SOCI (5),57193546914
+9-s2.0-57290974900,,Andrews,E.M.,Eden Mariquit,Tokyo Institute of Technology,10,60031126,Tokyo,Japan,ENGI (8); ENVI (7); COMP (3),57290974900
+9-s2.0-57194029646,,Kindel,A.T.,Alexander T.,Princeton University,8,60003269,Princeton,United States,COMP (6); SOCI (5); ARTS (1),57194029646
+9-s2.0-56736849000,,Deitrick,E.,Elise,Codio,8,125950427,Cambridge,United States,COMP (11); SOCI (7),56736849000
+9-s2.0-57188817798,,Dang,S.,Steven,Lexia Learning,7,106715741,Concord,United States,COMP (18); SOCI (2),57188817798
+9-s2.0-57280427400,0000-0002-7028-3291,Gayed,J.M.,John Maurice,Tokyo Institute of Technology,6,60031126,Tokyo,Japan,COMP (9); SOCI (6); ENGI (2),57280427400
+9-s2.0-56145020700,,Tang,S.,Steven,"University of California, Berkeley",5,60025038,Berkeley,United States,COMP (12); SOCI (3),56145020700
+9-s2.0-55734526400,,Wan,H.,Hao,Worcester Polytechnic Institute,5,60011410,Worcester,United States,COMP (7); MATH (3); SOCI (2),55734526400
+9-s2.0-57223820407,0000-0002-6795-1674,Zhao,Y.,Yankun,Hong Kong University of Science and Technology,4,60008592,Hong Kong,Hong Kong,COMP (9); ENGI (1),57223820407
+9-s2.0-57652927200,0000-0003-4796-300X,Kim,T.,Taewook,Northwestern University,3,60007363,Evanston,United States,COMP (7),57652927200
+9-s2.0-57376722600,,Erol,M.H.,Mehmet Hamza,Korea Advanced Institute of Science and Technology,3,60032144,Daejeon,South Korea,COMP (7); ENGI (1),57376722600
+9-s2.0-57747985900,,Chandarana,M.,Mohit,Codio,2,125950427,Cambridge,United States,COMP (3); SOCI (1),57747985900
+9-s2.0-57376830800,,Hong,J.,Jihyeong,Korea Advanced Institute of Science and Technology,2,60032144,Daejeon,South Korea,COMP (6),57376830800
+9-s2.0-57189382337,,Grello,T.M.,Thomas M.,Raytheon,2,60005304,Waltham,United States,COMP (6); SOCI (2),57189382337
+9-s2.0-57189378686,,Nolan,T.J.,Tyler J.,Rowan University,2,60016602,Glassboro,United States,COMP (6); SOCI (2),57189378686
+9-s2.0-57747987700,,Wei,H.,Hongqiang,Ccc Kei Yuen College,1,128234015,Hong Kong,Hong Kong,COMP (2),57747987700
+9-s2.0-57747976500,,Sabnis,S.,Sunil,Cornell University,1,60007776,Ithaca,United States,COMP (2),57747976500
+9-s2.0-57747957500,,Hsu,S.,Shuyi,Columbia University,1,60030162,New York,United States,COMP (2),57747957500
+9-s2.0-57747342200,,Olexa,R.A.,Robert Anthony,"National Institute of Technology, Hakodate College",1,60194687,Hakodate,Japan,COMP (2),57747342200
+9-s2.0-7006792691,0000-0003-0769-4618,Lipson,H.,Hod,Columbia University,342,60030162,New York,United States,COMP (238); ENGI (231); MATH (88),7006792691
+9-s2.0-6602528401,,Aleven,V.A.W.M.M.,Vincent A.W.M.M.,Carnegie Mellon University,260,60027950,Pittsburgh,United States,COMP (322); SOCI (95); MATH (92),6602528401
+9-s2.0-7005796597,,Kraut,R.E.,Robert E.,Carnegie Mellon University,249,60027950,Pittsburgh,United States,COMP (410); SOCI (105); PSYC (50),7005796597
+9-s2.0-7006199386,,Houben,G.J.,Geert Jan,Delft University of Technology,238,60006288,Delft,Netherlands,COMP (328); MATH (93); ENGI (21),7006199386
+9-s2.0-22036392500,,Studer,C.,Christoph,ETH Zürich,232,60025858,"Zurich ZH,",Switzerland,COMP (338); ENGI (156); MATH (64),22036392500
+9-s2.0-23392382200,,Hauff,C.,Claudia,Delft University of Technology,140,60006288,Delft,Netherlands,COMP (207); MATH (42); SOCI (10),23392382200
+9-s2.0-6603250689,,Klemmer,S.R.,Scott R.,"University of California, San Diego",121,60030612,San Diego,United States,COMP (264); SOCI (21); ENGI (6),6603250689
+9-s2.0-7403353347,,Cohen,G.L.,Geoffrey L.,Stanford Graduate School of Education,100,60025911,Stanford,United States,PSYC (74); MEDI (50); SOCI (44),7403353347
+9-s2.0-56597500700,,Hammer,J.,Jessica,Carnegie Mellon University,94,60027950,Pittsburgh,United States,COMP (190); SOCI (22); MEDI (6),56597500700
+9-s2.0-22433477900,,Ogan,A.E.,Amy E.,Carnegie Mellon University,89,60027950,Pittsburgh,United States,COMP (142); SOCI (34); MATH (27),22433477900
+9-s2.0-55089020000,,Zhu,H.,Haiyi,Carnegie Mellon University,68,60027950,Pittsburgh,United States,COMP (166); SOCI (25); PSYC (4),55089020000
+9-s2.0-57189380941,0000-0002-8236-3133,Chen,G.,Guanliang,Monash University,60,60019578,Melbourne,Australia,COMP (108); SOCI (19); MATH (15),57189380941
+9-s2.0-24826006100,,Whitehill,J.R.,Jacob R.,Worcester Polytechnic Institute,57,60011410,Worcester,United States,COMP (104); ENGI (19); MATH (9),24826006100
+9-s2.0-58305788800,0000-0001-6348-4127,Kim,J.,Juho,Korea Advanced Institute of Science and Technology,49,60032144,Daejeon,South Korea,COMP (128); SOCI (5); ENGI (1),58305788800
+9-s2.0-42361506800,,Rafferty,A.N.,Anna N.,"Carleton College, USA",47,60013250,Northfield,United States,COMP (69); SOCI (16); NEUR (11),42361506800
+9-s2.0-16031488000,,Massimi,M.A.,Michael A.,"Facebook, Inc.",41,60109024,Menlo Park,United States,COMP (86); MEDI (4); ENGI (4),16031488000
+9-s2.0-18042058000,,Rosen,Y.,Yigal,BrainPOP,37,128396363,New York,United States,COMP (40); SOCI (29); PSYC (10),18042058000
+9-s2.0-15042760500,,Seaton,D.T.,Daniel Thomas,Massachusetts Institute of Technology,35,60022195,Cambridge,United States,COMP (46); PHYS (18); SOCI (9),15042760500
+9-s2.0-24341027000,,Labutov,I.,Igor,Carnegie Mellon University,30,60027950,Pittsburgh,United States,COMP (64); ENGI (8); SOCI (6),24341027000
+9-s2.0-14049081600,,Sewall,J.,Jonathan,Carnegie Mellon University,29,60027950,Pittsburgh,United States,COMP (35); MATH (13); SOCI (9),14049081600
+9-s2.0-57189390673,,Davis,D.,Dan,Delft University of Technology,22,60006288,Delft,Netherlands,COMP (48); SOCI (8); MATH (2),57189390673
+9-s2.0-56904339000,,Wang,E.Y.,Elle Yuan,Arizona State University,14,60003892,Tempe,United States,COMP (23); SOCI (4); MATH (2),56904339000
+9-s2.0-22433564900,,Popescu,O.,Octav,Carnegie Mellon University,12,60027950,Pittsburgh,United States,COMP (13); MATH (6); SOCI (5),22433564900
+9-s2.0-56798469300,,Ngoon,T.J.,Tricia J.,Carnegie Mellon University,11,60027950,Pittsburgh,United States,COMP (33); SOCI (1),56798469300
+9-s2.0-57194044580,,Ang,A.M.,Andrew M.,Harvard University,9,60009982,Cambridge,United States,COMP (24); SOCI (4); MATH (1),57194044580
+9-s2.0-56335679200,,Blink,M.J.,Mary Jean,"TutorGen, Inc.",9,122666282,Mars,United States,COMP (15); MATH (3); SOCI (1),56335679200
+9-s2.0-55632278700,,Kasunic,A.M.,Anna M.,Carnegie Mellon University,9,60027950,Pittsburgh,United States,COMP (14); MEDI (5); SOCI (3),55632278700
+9-s2.0-57194039160,,Rushkin,I.,Ilia,BrainPOP,7,128396363,New York,United States,COMP (13); SOCI (4); ENGI (1),57194039160
+9-s2.0-57194033164,,Davis,G.M.,Glenn M.,Tsinghua University,7,60025278,Beijing,China,COMP (15); SOCI (4); ARTS (1),57194033164
+9-s2.0-57200502841,,Park,Y.,Yeonghoon,University of Minnesota Twin Cities,6,60029445,Minneapolis,United States,COMP (16); SOCI (2),57200502841
+9-s2.0-57194046269,,Zhang,L.,Liang,Worcester Polytechnic Institute,6,60011410,Worcester,United States,COMP (15); SOCI (1),57194046269
+9-s2.0-57189384414,,Luu,K.,Kelvin,University of Washington,5,127365294,SeattleWashington,United States,COMP (14); SOCI (4); ARTS (1),57189384414
+9-s2.0-57189376750,,Gamero-Garrido,A.,Alexander,Northeastern University,5,60028628,Boston,United States,COMP (10); SOCI (1); MATH (1),57189376750
+9-s2.0-56159955100,,Maldonado,S.G.,Samuel G.,San Jose State University,5,60015609,San Jose,United States,COMP (15); SOCI (3); NEUR (1),56159955100
+9-s2.0-57189377884,,Sheahen,D.,Dana,Georgia Institute of Technology,2,60019647,Atlanta,United States,COMP (6); SOCI (2),57189377884
+9-s2.0-57194042916,,Mohan,K.,Kiran,Worcester Polytechnic Institute,1,60011410,Worcester,United States,COMP (3); SOCI (1),57194042916
+9-s2.0-57194039312,,Jaywilliams,J.,Joseph,Harvard University,1,60009982,Cambridge,United States,COMP (3); SOCI (1),57194039312
+9-s2.0-57194034487,,Federicks,C.,Colin,Harvard University,1,60009982,Cambridge,United States,COMP (3); SOCI (1),57194034487
+9-s2.0-7201794914,,Pritchard,D.E.,David E.,Massachusetts Institute of Technology,286,60022195,Cambridge,United States,PHYS (313); COMP (55); ENGI (35),7201794914
+9-s2.0-7201830074,,Goel,A.K.,Ashok K.,Georgia Institute of Technology,248,60019647,Atlanta,United States,COMP (339); ENGI (115); MATH (45),7201830074
+9-s2.0-7406355852,,Chen,M.,Meng-Chang,"Academia Sinica, Institute of Information Science",179,60013651,Taipei,Taiwan,COMP (244); ENGI (96); MATH (34),7406355852
+9-s2.0-8375653300,,Gajos,K.Z.,Krzysztof Z.,Harvard John A. Paulson School of Engineering and Applied Sciences,118,60077572,Cambridge,United States,COMP (225); MEDI (18); ENGI (13),8375653300
+9-s2.0-54383728900,0000-0002-8204-1708,Lasecki,W.S.,Walter S.,"University of Michigan, Ann Arbor",116,60025778,Ann Arbor,United States,COMP (251); SOCI (12); ARTS (7),54383728900
+9-s2.0-7005675226,,Saberi,A.,Amin,Stanford University,113,60012708,Palo Alto,United States,COMP (126); MATH (75); DECI (16),7005675226
+9-s2.0-6506196843,0000-0002-5278-2441,Sottilare,R.A.,Robert A.,Inc,108,122418536,Orlando,United States,COMP (85); MATH (54); SOCI (25),6506196843
+9-s2.0-6602829236,,Isbell,C.L.,Charles Lee,Georgia Institute of Technology,106,60019647,Atlanta,United States,COMP (158); ENGI (33); SOCI (10),6602829236
+9-s2.0-56013933500,0000-0002-2304-6365,Ruipérez-Valiente,J.A.,José A.,Massachusetts Institute of Technology,96,60022195,Cambridge,United States,COMP (135); SOCI (44); ENGI (28),56013933500
+9-s2.0-24076936000,,Nikolaev,A.G.,Alexander G.,"University at Buffalo, The State University of New York",66,60032083,Buffalo,United States,COMP (49); DECI (32); SOCI (24),24076936000
+9-s2.0-35785827100,,Goel,S.,Sharad,John F. Kennedy School of Government,65,60006332,Cambridge,United States,COMP (66); SOCI (23); MATH (16),35785827100
+9-s2.0-56808124700,,Goldberg,B.S.,Benjamin S.,US Army DEVCOM Soldier Center,49,122920197,Orlando,United States,COMP (41); MATH (22); SOCI (17),56808124700
+9-s2.0-36651262600,,Kulkarni,C.,Chinmay,Google LLC,47,60006191,Mountain View,United States,COMP (108); SOCI (13); DECI (2),36651262600
+9-s2.0-36809595300,,Fu,X.,Xiang,Hofstra University,41,60029304,Hempstead,United States,COMP (64); MATH (10); SOCI (8),36809595300
+9-s2.0-57197249310,,Martin,T.,Taylor,Utah State University,40,60031706,Logan,United States,COMP (29); SOCI (22); ENGI (11),57197249310
+9-s2.0-35483119700,,Bakharia,A.,Aneesha,The University of Queensland,33,60031004,Brisbane,Australia,COMP (64); SOCI (14); ENGI (4),35483119700
+9-s2.0-55883417000,,Vaish,R.,Rajan,Snap Inc.,32,60120916,Santa Monica,United States,COMP (73); SOCI (9); MATH (4),55883417000
+9-s2.0-24722315700,0000-0002-7721-5902,Yang,T.,Tzuchi,National Yang Ming Chiao Tung University,28,60199493,Hsinchu,Taiwan,COMP (32); SOCI (29); ENGI (8),24722315700
+9-s2.0-6701816876,,Burghardt,M.D.,Martin David,Hofstra University,25,60029304,Hempstead,United States,ENGI (19); COMP (10); SOCI (8),6701816876
+9-s2.0-40662162300,0000-0002-7496-9290,Yarzebinski,E.,Evelyn,Carnegie Mellon University,22,60027950,Pittsburgh,United States,COMP (37); SOCI (9); MATH (7),40662162300
+9-s2.0-57189377714,,Uchidiuno,J.O.,Judith Odili,Georgia Institute of Technology,18,60019647,Atlanta,United States,COMP (31); SOCI (10),57189377714
+9-s2.0-36994741800,0000-0002-5961-4969,Rayyan,S.,Saif,Massachusetts Institute of Technology,17,60022195,Cambridge,United States,PHYS (18); COMP (9); SOCI (5),36994741800
+9-s2.0-26640538400,0000-0002-5347-9460,Miller,S.M.,Suzanne M.,"University at Buffalo, The State University of New York",17,60032083,Buffalo,United States,SOCI (16); ARTS (7); COMP (3),26640538400
+9-s2.0-55392489900,,Long,R.A.,Rodney A.,University of Pennsylvania,12,60006297,Philadelphia,United States,COMP (10); MATH (7); SOCI (3),55392489900
+9-s2.0-9039418800,,Shnayder,V.,Victor,Bonsai,11,125281297,Berkeley,United States,COMP (16); ENGI (6); MATH (5),9039418800
+9-s2.0-57199226802,,Close,K.,Kevin,Spencer Foundation,11,126181967,Spencer,United States,SOCI (12); COMP (5); ARTS (1),57199226802
+9-s2.0-57195682864,,Jeong,S.,Soojeong,Utah State University,10,60031706,Logan,United States,SOCI (9); COMP (3); PSYC (2),57195682864
+9-s2.0-34167643600,,Farasat,A.,Alireza,"University at Buffalo, State University of New York",10,60032083,Buffalo,United States,COMP (13); SOCI (4); ENGI (4),34167643600
+9-s2.0-56145370000,0000-0001-5670-0004,Fredericks,C.,Colin,Harvard University,8,60009982,Cambridge,United States,COMP (12); SOCI (5),56145370000
+9-s2.0-57189381406,,Lopez,G.,Glenn,Harvard University,7,60009982,Cambridge,United States,COMP (15); SOCI (4); MULT (1),57189381406
+9-s2.0-56912277900,0000-0003-4580-8997,Pijeira Díaz,H.J.,Héctor J.,Universidad Carlos III de Madrid,6,60001741,Madrid,Spain,COMP (14); SOCI (1); MATH (1),56912277900
+9-s2.0-56259336500,,Stankiewicz,A.,Adam,Carnegie Mellon University,4,60027950,Pittsburgh,United States,COMP (6); SOCI (3),56259336500
+9-s2.0-55657912100,,Janisiewicz,P.,Philip,Utah State University,4,60031706,Logan,United States,COMP (9); SOCI (2); PSYC (1),55657912100
+9-s2.0-57194037151,,Gopalsamy,R.,Rahul,"University at Buffalo, The State University of New York",2,60032083,Buffalo,United States,COMP (3); MEDI (1); SOCI (1),57194037151
+9-s2.0-57004891700,,Befferman,T.,Tyler,Hofstra University,2,60029304,Hempstead,United States,COMP (4); MATH (1); SOCI (1),57004891700
+9-s2.0-56260790200,,Lawanto,K.N.,Kevin N.,Utah State University,2,60031706,Logan,United States,COMP (3); SOCI (2),56260790200
+9-s2.0-57189389107,,Shih,D.,Dailing,National Taiwan University,1,60005429,Taipei,Taiwan,COMP (3); SOCI (1),57189389107
+9-s2.0-57189192866,0000-0002-9346-7122,Brasiel,S.,Sarah,Utah State University,1,60031706,Logan,United States,COMP (3); SOCI (1),57189192866
+9-s2.0-56997681300,0000-0003-4093-3705,Delgado Kloos,C.,Carlos,Universidad Carlos III de Madrid,341,60001741,Getafe,Spain,COMP (371); SOCI (142); ENGI (112),56997681300
+9-s2.0-7006510438,,Littman,M.L.,Michael L.,Brown University,222,60011460,Providence,United States,COMP (312); ENGI (58); MATH (47),7006510438
+9-s2.0-7004613973,,Dweck,C.S.,Carol Sorich,Stanford University,188,60012708,Palo Alto,United States,PSYC (173); SOCI (92); MEDI (62),7004613973
+9-s2.0-15136847800,0000-0002-2552-4674,Muñoz-Merino,P.J.,Pedro J.,Universidad Carlos III de Madrid,135,60001741,Getafe,Spain,COMP (160); SOCI (65); ENGI (50),15136847800
+9-s2.0-35176314800,,Popovíc,Z.,Zoran,University of Washington,132,60015481,Seattle,United States,COMP (251); BIOC (15); MATH (8),35176314800
+9-s2.0-7402014469,,Ferguson,D.C.,Duncan C.,University of Illinois Urbana-Champaign,123,60000745,Urbana,United States,VETE (87); BIOC (84); MEDI (43),7402014469
+9-s2.0-55865135900,0000-0003-4180-4948,Romero,C.,C.,Universidad de Córdoba,100,60003138,Cordoba,Spain,COMP (161); ENGI (29); SOCI (27),55865135900
+9-s2.0-6701681841,,Hauswirth,M.,Matthias,Università della Svizzera italiana,84,60006824,Lugano,Switzerland,COMP (130); ENGI (16); SOCI (9),6701681841
+9-s2.0-55841212800,0000-0001-5535-0081,Han,K.,Kyungsik,Ajou University,83,60002445,Suwon,South Korea,COMP (147); ENGI (15); MEDI (13),55841212800
+9-s2.0-7003911565,,Beresford,A.R.,Alastair R.,University of Cambridge,76,60031101,Cambridge,United Kingdom,COMP (118); MATH (23); ENGI (22),7003911565
+9-s2.0-55606048500,,Grover,S.,Shuchi,Looking Glass Ventures,68,130088829,,,COMP (91); SOCI (50); MATH (4),55606048500
+9-s2.0-35261985800,,Hershkovitz,A.,Arnon,"Tel Aviv University, School of Education",67,112202523,Tel Aviv-Yafo,Israel,COMP (72); SOCI (63); PSYC (5),35261985800
+9-s2.0-7003599195,,Minocha,S.,Shailey,The Open University,63,60012113,Milton Keynes,United Kingdom,COMP (62); SOCI (26); ENGI (22),7003599195
+9-s2.0-14036315700,,Rice,A.C.,Andrew C.,"GitHub, Inc.",61,60118488,San Francisco,United States,COMP (96); ENGI (20); MATH (12),14036315700
+9-s2.0-14035245400,,Coughlan,T.,Tim,The Open University,60,60012113,Milton Keynes,United Kingdom,COMP (83); SOCI (30); PSYC (7),14035245400
+9-s2.0-36185549200,0000-0001-8160-9130,Garaizar,P.,Pablo,Universidad de Deusto,55,60006565,Bilbao,Spain,COMP (66); PSYC (32); SOCI (21),36185549200
+9-s2.0-14522740000,0000-0002-0311-2150,Guenaga,M.,Mariluz,Universidad de Deusto,54,60006565,Bilbao,Spain,COMP (72); SOCI (26); ENGI (16),14522740000
+9-s2.0-26649747300,,Cerezo,R.,Rebeca,Universidad de Oviedo,47,60006793,Oviedo,Spain,COMP (35); PSYC (26); SOCI (24),26649747300
+9-s2.0-13007773500,,Feng,M.,Mingyu,WestEd,45,100356131,San Francisco,United States,COMP (57); SOCI (23); MATH (8),13007773500
+9-s2.0-9336386500,0000-0002-9016-154X,McAndrew,P.,Patrick,The Open University,44,60012113,Milton Keynes,United Kingdom,COMP (38); SOCI (27); ENGI (8),9336386500
+9-s2.0-7004574232,,Bieńkowski,M.A.,Marie A.,Academies of Math and Science,35,126230749,Tucson,United States,COMP (41); SOCI (16); ENGI (11),7004574232
+9-s2.0-56521566900,0000-0003-3946-3056,Iniesto,F.,Francisco,The Open University,34,60012113,Milton Keynes,United Kingdom,COMP (48); SOCI (23); ENGI (7),56521566900
+9-s2.0-8260932800,,Niekrasz,J.,John,SRI International,23,60000461,Menlo Park,United States,COMP (30); SOCI (11); ARTS (8),8260932800
+9-s2.0-36447934500,,O'Rourke,E.,Eleanor,Northwestern University,23,60007363,Evanston,United States,COMP (45); SOCI (7); MATH (3),36447934500
+9-s2.0-25960749800,0000-0003-2926-9495,Eguíluz,A.,Andoni,Universidad de Deusto,22,60006565,Bilbao,Spain,COMP (33); SOCI (14); ENGI (5),25960749800
+9-s2.0-55485342400,0000-0002-9645-0529,Gallagher,S.E.,Silvia Elena,Trinity College Dublin,16,60011149,Dublin,Ireland,SOCI (15); COMP (12); NURS (3),55485342400
+9-s2.0-56598089900,,Kotturi,Y.,Yasmine,Carnegie Mellon University,14,60027950,Pittsburgh,United States,COMP (29); SOCI (4); BUSI (1),56598089900
+9-s2.0-55793825700,,Johanes,P.,Petr,Stanford University,14,60012708,Palo Alto,United States,COMP (11); ENGI (8); SOCI (6),55793825700
+9-s2.0-35491654500,0000-0002-2525-773X,Savage,T.,Timothy,Trinity College Dublin,12,60011149,Dublin,Ireland,COMP (12); SOCI (10); PSYC (3),35491654500
+9-s2.0-55270186100,,Zheng,S.,Saijing,Pennsylvania State University,9,60001439,University Park,United States,COMP (18); SOCI (5); MATH (1),55270186100
+9-s2.0-36463853000,,Kolhe,P.,Pushkar,Georgia Institute of Technology,9,60019647,Atlanta,United States,COMP (18); ENGI (9); MATH (2),36463853000
+9-s2.0-35301574800,,Davies,I.P.,Ian P.,University of Cambridge,9,60031101,Cambridge,United Kingdom,COMP (19); MATH (3); SOCI (3),35301574800
+9-s2.0-56853273800,,Cummins,S.,Stephen,University of Cambridge,8,60031101,Cambridge,United Kingdom,COMP (17); SOCI (5); ENGI (1),56853273800
+9-s2.0-56911624700,,Ruiz,J.S.,Javier Santofimia,Universidad Carlos III de Madrid,5,60001741,Madrid,Spain,COMP (10); SOCI (1); MATH (1),56911624700
+9-s2.0-57189386236,,Peach,E.,Erin,Code.org,2,114376454,Seattle,United States,COMP (5); SOCI (3); ENGI (1),57189386236
+9-s2.0-57189379173,,Bermúdez,M.,Manuel,Universidad de Cordoba,2,60003138,Cordoba,Spain,COMP (4); SOCI (2),57189379173
+9-s2.0-57194046185,,Du,A.,Andrew,"University of California, San Diego",1,60030612,San Diego,United States,COMP (3); SOCI (1),57194046185
+9-s2.0-57194028259,,Gal,L.,Lilach,Tel Aviv University,1,60005681,Tel Aviv-Yafo,Israel,COMP (3); SOCI (1),57194028259
+9-s2.0-57189380434,,Espino,J.A.,Jose Antonio,Universidad de Cordoba,1,60003138,Cordoba,Spain,COMP (3); SOCI (1),57189380434
+9-s2.0-7007024509,0000-0001-7296-523X,Chuang,I.L.,Isaac L.,Massachusetts Institute of Technology,193,60022195,Cambridge,United States,PHYS (216); COMP (62); ENGI (31),7007024509
+9-s2.0-6603376938,,Domeniconi,C.,Carlotta,George Mason University,175,60018319,Fairfax,United States,COMP (267); MATH (55); ENGI (51),6603376938
+9-s2.0-57193650715,,Zhang,M.,Ming,Peking University,174,60014966,Beijing,China,COMP (279); ENGI (50); MATH (41),57193650715
+9-s2.0-25655003800,,Johri,A.,Aditya,George Mason University,168,60018319,Fairfax,United States,COMP (190); SOCI (85); ENGI (65),25655003800
+9-s2.0-35571093800,,Fox,A.,Armando,"University of California, Berkeley",154,60025038,Berkeley,United States,COMP (246); ENGI (41); SOCI (22),35571093800
+9-s2.0-35190968400,,Oh,A.H.Y.,Alice Hae Yun,Korea Advanced Institute of Science and Technology,86,60032144,Daejeon,South Korea,COMP (194); SOCI (24); ARTS (8),35190968400
+9-s2.0-55967012900,,Lan,A.S.,Andrew S.,University of Massachusetts Amherst,76,60014313,Amherst,United States,COMP (149); ENGI (16); MATH (14),55967012900
+9-s2.0-56272615700,,Hu,Z.,Zhiting,"University of California, San Diego",57,60030612,San Diego,United States,COMP (120); SOCI (15); ARTS (11),56272615700
+9-s2.0-15048968900,,Yang,S.,Seungwon,Louisiana State University,51,60007566,Baton Rouge,United States,COMP (76); SOCI (19); ENGI (15),15048968900
+9-s2.0-23975987900,,Glassman,E.L.,Elena Leah,Harvard University,48,60009982,Cambridge,United States,COMP (107); SOCI (11); ENGI (8),23975987900
+9-s2.0-6507425997,,Dzikovska,M.O.,Myroslava O.,The University of Edinburgh,40,60027272,Edinburgh,United Kingdom,COMP (55); SOCI (24); MATH (14),6507425997
+9-s2.0-57191545898,,Li,X.,Xiang,Peking University,33,60014966,Beijing,China,COMP (53); MATH (11); ENER (9),57191545898
+9-s2.0-56700245500,0000-0003-0286-5430,Paule-Ruiz,M.D.P.,MPuerto Del Puerto,Universidad de Oviedo,32,60006793,Oviedo,Spain,COMP (56); MATH (18); SOCI (11),56700245500
+9-s2.0-56565054200,,Boulanger,D.,David,Athabasca University,32,60018510,Athabasca,Canada,COMP (60); SOCI (23); MATH (4),56565054200
+9-s2.0-57192521363,,Lee,S.,Sunbok,Ewha Womans University,26,60001018,Seoul,South Korea,SOCI (15); PSYC (13); MEDI (11),57192521363
+9-s2.0-25961087900,0000-0002-8436-7621,Vigentini,L.,Lorenzo,UNSW Sydney,22,60028333,Sydney,Australia,COMP (30); SOCI (12); ENGI (8),25961087900
+9-s2.0-56565652000,,Seanosky,J.,Jérémie,Athabasca University,21,60018510,Athabasca,Canada,COMP (41); SOCI (19); PSYC (1),56565652000
+9-s2.0-39061438300,,Kim,S.,Suin,Korea Advanced Institute of Science and Technology,19,60032144,Daejeon,South Korea,COMP (43); SOCI (4); MEDI (1),39061438300
+9-s2.0-55330044600,,Essa,A.,Alfred,Carnegie Mellon University,16,60027950,Pittsburgh,United States,COMP (33); SOCI (5); MATH (2),55330044600
+9-s2.0-56119060800,0000-0001-5957-2001,Sánchez-Santillán,M.,Miguel,Universidad de Oviedo,15,60006793,Oviedo,Spain,COMP (22); SOCI (7); PSYC (3),56119060800
+9-s2.0-57189375800,,Park,J.,Jungkook,Korea Advanced Institute of Science and Technology,12,60032144,Daejeon,South Korea,COMP (29); SOCI (5),57189375800
+9-s2.0-57189384059,,Ju,A.,An,"University of California, Berkeley",10,60025038,Berkeley,United States,COMP (16); SOCI (7); BUSI (2),57189384059
+9-s2.0-57194040218,,Michalenko,J.J.,Joshua J.,"Sandia National Laboratories, New Mexico",8,60007843,Albuquerque,United States,COMP (13); PHYS (3); SOCI (3),57194040218
+9-s2.0-55340451800,,Lewkow,N.,Nicholas,McGraw-Hill Education,8,116701968,Boston,United States,COMP (24); SOCI (2); MATH (1),55340451800
+9-s2.0-57013899900,,Kim,J.,Jaewon,Korea Advanced Institute of Science &amp; Technology,6,60032144,Yusong,South Korea,COMP (15); SOCI (2); DECI (1),57013899900
+9-s2.0-57213016974,,Gelman,B.U.,Ben U.,George Mason University,5,60018319,Fairfax,United States,COMP (13); SOCI (3); DECI (1),57213016974
+9-s2.0-57201722156,,Feild,J.,Jacqueline,McGraw-Hill Education,5,116701968,Boston,United States,COMP (15); SOCI (2),57201722156
+9-s2.0-56597047000,,Zhu,J.,Jile,Peking University,5,60014966,Beijing,China,COMP (15); SOCI (2),56597047000
+9-s2.0-56119064400,,Carlos Núñez,J.,José,Universidad de Oviedo,5,60006793,Oviedo,Spain,COMP (7); SOCI (3); PSYC (2),56119064400
+9-s2.0-57193766199,,Zimmerman,N.L.,Neil L.,McGraw-Hill Education,4,116701968,Boston,United States,COMP (10); MATH (1); SOCI (1),57193766199
+9-s2.0-57189384913,,Zhao,C.,Catherine,The University of Sydney,4,60025709,Sydney,Australia,COMP (10); SOCI (2); MATH (1),57189384913
+9-s2.0-57189377905,,Riedesel,M.A.,Mark A.,McGraw-Hill Education,4,116701968,Boston,United States,COMP (8); SOCI (2); MATH (1),57189377905
+9-s2.0-56912689500,,Wang,Z.,Zhuo,Peking University,4,60014966,Beijing,China,COMP (9); SOCI (1); MATH (1),56912689500
+9-s2.0-57194042244,,Vu Le,C.V.,Christopher V.,"University of California, Berkeley",2,60025038,Berkeley,United States,COMP (4); MATH (1); SOCI (1),57194042244
+9-s2.0-56597999600,,Beckley,C.,Chris,"George Mason University, Fairfax Campus",2,60018319,Fairfax,United States,COMP (6); SOCI (2),56597999600
+9-s2.0-57194046826,,Paul,A.,Andrew,University of Wisconsin Platteville,1,60014628,Platteville,United States,COMP (3); SOCI (1),57194046826
+9-s2.0-57194039586,,Kimn,A.,Alex,Massachusetts Institute of Technology,1,60022195,Cambridge,United States,COMP (3); SOCI (1),57194039586
+9-s2.0-16229529400,0000-0003-3941-1088,Blikstein,P.,Paulo,Columbia University,164,60030162,New York,United States,COMP (270); SOCI (100); ENGI (21),16229529400
+9-s2.0-7102963606,,Seltzer,M.I.,Margo I.,The University of British Columbia,157,60010365,Vancouver,Canada,COMP (253); ENGI (29); MATH (25),7102963606
+9-s2.0-15762040900,,Brunskill,E.,Emma,Stanford University,138,60012708,Palo Alto,United States,COMP (252); MATH (23); ENGI (21),15762040900
+9-s2.0-57201621048,,Kumar,V.S.,Vive Suresh,Athabasca University,121,60018510,Athabasca,Canada,COMP (169); SOCI (69); ENGI (23),57201621048
+9-s2.0-8301478000,,Wise,A.F.,Alyssa Friend,NYU Steinhardt,85,60108319,New York,United States,COMP (128); SOCI (57); PSYC (5),8301478000
+9-s2.0-36843894700,0000-0002-8566-8231,Ferguson,R.,Rebecca,The Open University,65,60012113,Milton Keynes,United Kingdom,COMP (138); SOCI (32); MATH (4),36843894700
+9-s2.0-36544543100,0000-0001-8684-2070,Türkay,S.,Selen,Queensland University of Technology,62,60011019,Brisbane,Australia,COMP (116); SOCI (23); PSYC (11),36544543100
+9-s2.0-22136039600,0000-0002-6068-5561,Riedel-Kruse,I.H.,Ingmar Hans,The University of Arizona,59,60010065,Tucson,United States,COMP (38); BIOC (28); MEDI (26),22136039600
+9-s2.0-7102182425,,Rowland,D.A.,Duncan A.,University of Nottingham,52,60015138,Nottingham,United Kingdom,COMP (71); PSYC (11); ARTS (10),7102182425
+9-s2.0-35772345700,0000-0001-8588-7429,Hill,B.M.,Benjamin Mako,University of Washington,48,60015481,Seattle,United States,COMP (93); SOCI (25); MEDI (2),35772345700
+9-s2.0-23008419000,,DeNero,J.,John,"University of California, Berkeley",46,60025038,Berkeley,United States,COMP (70); SOCI (29); ARTS (20),23008419000
+9-s2.0-35743909500,,van der Sluis,F.,Frans,Københavns Universitet,29,60030840,Copenhagen,Denmark,COMP (54); SOCI (5); DECI (3),35743909500
+9-s2.0-55250030200,,Bumbacher,E.W.,Engin W.,Haute École pédagogique du canton de Vaud,27,101404739,Lausanne,Switzerland,COMP (33); SOCI (20); ENGI (2),55250030200
+9-s2.0-56505202800,,Ostrow,K.S.,Korinn S.,Edmentum,26,126709403,Bloomington,United States,COMP (41); SOCI (16); MATH (7),56505202800
+9-s2.0-39061169700,0000-0001-6083-2114,Dasgupta,S.,Sayamindu,University of Washington,22,60015481,Seattle,United States,COMP (53); SOCI (7),39061169700
+9-s2.0-36470543700,,Kode,S.,Sandhya,"International Institute of Information Technology, Hyderabad",21,60000163,Hyderabad,India,COMP (19); SOCI (19); BUSI (2),36470543700
+9-s2.0-56144855700,,Stephens-Martinez,K.,Kristin,Duke University,16,60008724,Durham,United States,COMP (21); SOCI (13); BUSI (2),56144855700
+9-s2.0-57189377879,,Antonova,R.,Rika,Stanford University,15,60012708,Palo Alto,United States,COMP (37); ENGI (22); MATH (8),57189377879
+9-s2.0-14011971800,,Kruse,O.,Otto,ZHAW Zurich University of Applied Sciences,14,60015769,Winterthur,Switzerland,SOCI (18); COMP (9); PSYC (6),14011971800
+9-s2.0-56640937100,,Hossain,Z.,Zahid,American International University - Bangladesh,13,60104425,Dhaka,Bangladesh,COMP (21); SOCI (5); ENGI (3),56640937100
+9-s2.0-57210647455,,Hou,B.,Brian,University of Washington,12,60015481,Seattle,United States,COMP (24); ENGI (12); SOCI (5),57210647455
+9-s2.0-57163561300,0000-0002-8058-9163,Van Der Zee,T.,Tim,"Interfacultair Centrum voor Lerarenopleiding, Onderwijsontwikkeling en Nascholing",11,60014540,Leiden,Netherlands,COMP (13); SOCI (6); MEDI (5),57163561300
+9-s2.0-56597233100,,Cui,Y.,Yi,New York University,10,60021784,New York,United States,COMP (26); SOCI (5); PSYC (1),56597233100
+9-s2.0-36492194200,,Rapp,C.,Christian,ZHAW Zurich University of Applied Sciences,9,60015769,Winterthur,Switzerland,COMP (15); SOCI (8),36492194200
+9-s2.0-57194029790,,Lu,X.,Xiwen,Brandeis University,7,60016247,Waltham,United States,COMP (8); SOCI (7); PSYC (2),57194029790
+9-s2.0-57189385300,,Sridhara,S.,Sumukh,"University of California, Berkeley",4,60025038,Berkeley,United States,COMP (5); SOCI (4); BUSI (1),57189385300
+9-s2.0-57190686838,,Jin,W.,Wanqi,Simon Fraser University,3,60018491,Burnaby,Canada,COMP (9); SOCI (2),57190686838
+9-s2.0-57189383661,,Ginn,J.,Jasper,Leiden University,3,60019816,Leiden,Netherlands,COMP (10); SOCI (2),57189383661
+9-s2.0-56035003000,,Appiah-Kubi,K.,Kwamena,University of Lincoln,3,60026830,Lincoln,United Kingdom,COMP (8); MATH (1); SOCI (1),56035003000
+9-s2.0-56597873400,,Runde,J.,Joe,Carnegie Mellon University,2,60027950,Pittsburgh,United States,COMP (6); SOCI (2),56597873400
+9-s2.0-56597067400,,Lee,M.,Min-hyung,Carnegie Mellon University,2,60027950,Pittsburgh,United States,COMP (6); SOCI (2),56597067400
+9-s2.0-57194028723,,Eidelman,H.,Hadas,Harvard University,1,60009982,Cambridge,United States,COMP (3); SOCI (1),57194028723
+9-s2.0-57189389570,,Lu,J.,Jeffrey,"University of California, Berkeley",1,60025038,Berkeley,United States,COMP (3); SOCI (1),57189389570
+9-s2.0-55375749200,,Offutt,J.,Jeff,George Mason University,199,60018319,Fairfax,United States,COMP (257); ENGI (89); MATH (12),55375749200
+9-s2.0-9737265900,,Rangwala,H.S.,Huzefa S.,"Amazon.com, Inc.",189,60076757,Seattle,United States,COMP (262); BIOC (72); MATH (51),9737265900
+9-s2.0-15059978800,,Hartmann,B.D.,Björn D.,"University of California, Berkeley",129,60025038,Berkeley,United States,COMP (284); ENGI (22); MATH (6),15059978800
+9-s2.0-56391668100,,Kumar,N.S.,Neha Senthil,Kongunadu Arts and Science College,123,60072225,Coimbatore,India,COMP (301); SOCI (26); MEDI (2),56391668100
+9-s2.0-7007049030,,Ammann,P.E.,Paul E.,George Mason University,109,60018319,Fairfax,United States,COMP (141); ENGI (54); MATH (13),7007049030
+9-s2.0-52863449200,,D&amp;apos;Antoni,L.,Loris,University of Wisconsin-Madison,76,60032179,Madison,United States,COMP (111); MATH (24); ENGI (9),52863449200
+9-s2.0-6507633248,0000-0002-3411-3009,Cobos,R.,Ruth,Universidad Autónoma de Madrid,71,60026796,Madrid,Spain,COMP (81); SOCI (32); ENGI (22),6507633248
+9-s2.0-17436496700,,von Luxburg,U.,Ulrike,Eberhard Karls Universität Tübingen,67,60017246,Tubingen,Germany,COMP (107); MATH (31); ENGI (16),17436496700
+9-s2.0-6701569101,,Setia,S.K.,Sanjeev K.,George Mason University,50,60018319,Fairfax,United States,COMP (69); ENGI (22); MATH (9),6701569101
+9-s2.0-23975966600,,Lester,J.,Jaime,George Mason University,44,60018319,Fairfax,United States,SOCI (42); COMP (8); ENGI (3),23975966600
+9-s2.0-36162738100,,Figueiredo,L.S.,Lucas Silva,Universidade Federal Rural de Pernambuco,42,60000958,Recife,Brazil,COMP (84); ENGI (20); MATH (9),36162738100
+9-s2.0-57193575409,,Suzuki,R.,Ryo,University of Calgary,35,60002306,Calgary,Canada,COMP (93); ENGI (5); SOCI (1),57193575409
+9-s2.0-56236876600,,Renz,J.,Jan,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,34,60106550,Potsdam,Germany,COMP (57); SOCI (22); ENGI (14),56236876600
+9-s2.0-36132146800,,Soares,G.,Gustavo,Microsoft Corporation,33,60026532,Redmond,United States,COMP (56); ENGI (9); SOCI (4),36132146800
+9-s2.0-57189379855,0000-0002-2159-267X,Kumar,A.,Arkadeep,"University of California, Berkeley",23,60025038,Berkeley,United States,ENGI (19); COMP (14); MATE (10),57189379855
+9-s2.0-57156107000,,Head,A.,Andrew,University of Pennsylvania,22,60006297,Philadelphia,United States,COMP (54); SOCI (2); ARTS (1),57156107000
+9-s2.0-8304995800,,Praphamontripong,U.,Upsorn,University of Virginia,18,60021918,Charlottesville,United States,COMP (22); ENGI (9); SOCI (4),8304995800
+9-s2.0-56562339300,,Bauer,M.,Matthias,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,16,60106550,Potsdam,Germany,COMP (23); ENGI (11); SOCI (8),56562339300
+9-s2.0-57213127778,,Sajjadi,M.S.M.,Mehdi S.M.,DeepMind Technologies Limited,14,60111161,London,United Kingdom,COMP (28); SOCI (5); MATH (2),57213127778
+9-s2.0-57188876373,,Vishwanath,A.,Aditya,Stanford University,11,60012708,Palo Alto,United States,COMP (27); SOCI (3); PSYC (1),57188876373
+9-s2.0-36986771100,,Alamgir,M.,Morteza,Universität Hamburg,8,60028229,Hamburg,Germany,COMP (13); ENGI (3); MATH (3),36986771100
+9-s2.0-57189389562,,Lareo,Á.,Ángel,Universidad Autónoma de Madrid,7,60026796,Madrid,Spain,COMP (10); NEUR (3); ENVI (2),57189389562
+9-s2.0-26648094500,,Dobolyi,K.,Kinga,"George Mason University, Fairfax Campus",7,60018319,Fairfax,United States,COMP (12); ENGI (2); SOCI (1),26648094500
+9-s2.0-36522085300,,Jardine-Wright,L.,Lisa,Department of Physics,5,60121115,Cambridge,United Kingdom,COMP (3); PHYS (3); SOCI (2),36522085300
+9-s2.0-56318835000,,Stead,A.G.,Alistair G.,University of Cambridge,4,60031101,Cambridge,United Kingdom,COMP (9); SOCI (2); PHYS (1),56318835000
+9-s2.0-55429749500,,Petrick,D.,Dominic,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,2,60106550,Potsdam,Germany,COMP (4); SOCI (1); MATH (1),55429749500
+9-s2.0-57194040509,,White,L.,Liz,"George Mason University, Fairfax Campus",1,60018319,Fairfax,United States,COMP (3); SOCI (1),57194040509
+9-s2.0-57194032711,,Kauffmann,C.,Chris,"George Mason University, Fairfax Campus",1,60018319,Fairfax,United States,COMP (3); SOCI (1),57194032711
+9-s2.0-57194030755,,Wang,P.,Pearl,"George Mason University, Fairfax Campus",1,60018319,Fairfax,United States,COMP (3); SOCI (1),57194030755
+9-s2.0-57189389417,0000-0002-7165-1594,Gil,S.,Silvia,Universidad Autónoma de Madrid,1,60026796,Madrid,Spain,COMP (3); SOCI (1),57189389417
+9-s2.0-57189379515,,Schoen,C.,Colin,"University of California, Berkeley",1,60025038,Berkeley,United States,COMP (3); SOCI (1),57189379515
+9-s2.0-57189375383,,Vargas,F.A.,Francisco A.,Universidad Autónoma de Madrid,1,60026796,Madrid,Spain,COMP (3); SOCI (1),57189375383
+9-s2.0-7006538185,,Linn,M.C.,Marcia C.,"University of California, Berkeley",290,60025038,Berkeley,United States,SOCI (268); COMP (114); PSYC (41),7006538185
+9-s2.0-23393559900,0000-0001-9854-9963,Pérez-Sanagustín,M.,Mar,Université Fédérale Toulouse Midi-Pyrénées,129,60102124,Toulouse,France,COMP (161); SOCI (59); ENGI (33),23393559900
+9-s2.0-16744016300,,Lee,B.K.,Brian K.,Karolinska Institutet,97,60012311,Stockholm,Sweden,MEDI (149); NEUR (22); BIOC (20),16744016300
+9-s2.0-8897973100,,Forte,A.,Andrea,Drexel University,75,60014662,Philadelphia,United States,COMP (132); SOCI (28); ENGI (9),8897973100
+9-s2.0-35752984100,,Banerjee,S.,Siddhartha,Cornell University,71,60007776,Ithaca,United States,COMP (138); MATH (24); ENGI (12),35752984100
+9-s2.0-57190294959,0000-0003-1953-390X,Maldonado-Mahauad,J.,Jorge,University of Cuenca,53,60072035,Cuenca,Ecuador,COMP (83); SOCI (22); MATH (13),57190294959
+9-s2.0-56051357700,0000-0002-1726-3224,Gülbahar,Y.,Yasemin,"Ankara Üniversitesi, Faculty of Educational Sciences",45,103666897,Ankara,Turkey,SOCI (50); COMP (28); MATH (7),56051357700
+9-s2.0-55810128500,,Teusner,R.,Ralf,Universität Potsdam,36,60021763,Potsdam,Germany,COMP (47); SOCI (19); ENGI (15),55810128500
+9-s2.0-55354364400,,Vie,J.J.,Jill Jênn,INRIA Saclay,35,60105988,Palaiseau,France,COMP (25); MEDI (25); MATH (7),55354364400
+9-s2.0-14042375400,,Popineau,F.,Fabrice,CentraleSupélec,31,60106088,Gif-sur-Yvette,France,COMP (50); MATH (14); SOCI (7),14042375400
+9-s2.0-55963460800,,Vitale,J.M.,Jonathan Michael,School District of Philadelphia,28,100343056,Philadelphia,United States,COMP (27); SOCI (25); PSYC (4),55963460800
+9-s2.0-56227555000,0000-0002-0308-783X,Kim,M.C.,Meen Chul,The Children's Hospital of Philadelphia,24,60030118,Philadelphia,United States,SOCI (19); COMP (17); MEDI (10),56227555000
+9-s2.0-56335976300,,Wiese,E.S.,Eliane Stampfer,The University of Utah,21,60025488,Salt Lake City,United States,COMP (43); SOCI (8); NEUR (5),56335976300
+9-s2.0-35273007300,,Park,T.H.,Thomas H.,Codepip,20,122425864,Philadelphia,United States,COMP (32); SOCI (9); BUSI (2),35273007300
+9-s2.0-56597705000,,McBride,E.A.,Elizabeth A.,SRI International,17,60000461,Menlo Park,United States,COMP (24); SOCI (14); MATH (1),56597705000
+9-s2.0-56317667900,,Firssova,O.,Olga,Open Universiteit,15,60024360,Heerlen,Netherlands,COMP (12); SOCI (10); MATH (4),56317667900
+9-s2.0-57195643963,0000-0001-7878-7171,Vijaya Saradhi,D.,D.,Malineni Perumallu Educational society's group of institutions,11,60115133,Guntur,India,COMP (11); ENGI (10); MATH (3),57195643963
+9-s2.0-56189611300,,Tort,F.,Françoise,École Normale Supérieure Paris-Saclay,10,60004981,Gif-sur-Yvette,France,COMP (12); MATH (5); SOCI (3),56189611300
+9-s2.0-24070304000,,Denos,N.,Nathalie,Laboratoire d'Informatique de Grenoble,9,60108044,Saint Martin d'Heres,France,COMP (11); MATH (2); SOCI (1),24070304000
+9-s2.0-56598047400,,Northcutt,C.G.,Curtis G.,Massachusetts Institute of Technology,8,60022195,Cambridge,United States,COMP (15); SOCI (4); ARTS (1),56598047400
+9-s2.0-56335563500,,Selent,D.,Douglas,Worcester Polytechnic Institute,8,60011410,Worcester,United States,COMP (16); SOCI (4); MATH (2),56335563500
+9-s2.0-57213207864,,Martínez,M.C.,Mario C.,IPARCOS-UCM (Instituto de Física de Partículas y del Cosmos),6,60268514,Madrid,Spain,PHYS (4); COMP (4); SOCI (2),57213207864
+9-s2.0-55512752200,,Marteau,B.,Benjamin,Numerical Algorithms Group,6,60091787,Oxford,United Kingdom,EART (8); COMP (6); MATH (3),55512752200
+9-s2.0-57194695081,,Chen,N.,Naichun,Massachusetts Institute of Technology,4,60022195,Cambridge,United States,COMP (8); ENGI (2); SOCI (2),57194695081
+9-s2.0-57188817705,0000-0002-8433-335X,Chen,A.,Antares,The University of Chicago,4,60029278,Chicago,United States,COMP (7); MATH (4); SOCI (1),57188817705
+9-s2.0-57189382295,,Reddy,S.,Siddharth,Cornell University,3,60007776,Ithaca,United States,COMP (8); SOCI (2),57189382295
+9-s2.0-57194037589,,Leon,K.A.,Kimberly A.,Massachusetts Institute of Technology,2,60022195,Cambridge,United States,COMP (4); MATH (1); SOCI (1),57194037589
+9-s2.0-57194036933,,Yen,M.,Michael,Turnitin,2,123362167,Oakland,United States,COMP (5); SOCI (1),57194036933
+9-s2.0-57189387209,,Chhabra,S.,Sukrit,Drexel University,2,60014662,Philadelphia,United States,COMP (3); SOCI (2); BUSI (1),57189387209
+9-s2.0-56597890400,,Gogel,H.,Hannah,"University of California, Berkeley",2,60025038,Berkeley,United States,COMP (6); SOCI (2),56597890400
+9-s2.0-56159595800,,Rollmann,K.A.,Kai Adrian,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,2,60106550,Potsdam,Germany,COMP (6); SOCI (1),56159595800
+9-s2.0-57194045304,,Santos,L.A.,Lucas A.,Universidade Federal de Sao Carlos,1,60013792,Sao Carlos,Brazil,COMP (3); SOCI (1),57194045304
+9-s2.0-7201938514,,Kay,J.,Judy,The University of Sydney,258,60025709,Sydney,Australia,COMP (393); MATH (56); SOCI (47),7201938514
+9-s2.0-6602804136,,Joachims,T.,Thorsten,Cornell University,147,60007776,Ithaca,United States,COMP (264); MATH (30); ENGI (23),6602804136
+9-s2.0-57203070987,,Gordon,G.J.,Geoffrey J.,Carnegie Mellon University,145,60027950,Pittsburgh,United States,COMP (240); ENGI (59); MATH (34),57203070987
+9-s2.0-6602815446,,Bruckman,A.S.,Amy S.,Georgia Institute of Technology,134,60019647,Atlanta,United States,COMP (267); SOCI (42); MATH (7),6602815446
+9-s2.0-18437133300,0000-0003-1471-5827,Kalz,M.,Marco,Pädagogische Hochschule Heidelberg,123,60011411,Heidelberg,Germany,COMP (117); SOCI (71); MATH (36),18437133300
+9-s2.0-7005935975,,Littlejohn,A.H.,Allison H.,UCL Knowledge Lab,112,60117699,London,United Kingdom,SOCI (116); COMP (41); BUSI (21),7005935975
+9-s2.0-54973771000,0000-0003-0877-6244,DeBoer,J.J.,Jennifer J.,Purdue University,93,60009254,West Lafayette,United States,ENGI (72); SOCI (66); COMP (34),54973771000
+9-s2.0-7103410052,,Swan,K.P.,Karen P.,International Adult and Continuing Education Hall of Fame,76,130003649,,United States,SOCI (73); COMP (48); PSYC (4),7103410052
+9-s2.0-7004114606,0000-0003-1416-5052,Coe,A.L.,Angela L.,The Open University,66,60012113,Milton Keynes,United Kingdom,EART (100); AGRI (10); ENVI (9),7004114606
+9-s2.0-8937994200,0000-0002-6240-2684,Brouns,F.,Francis,Open Universiteit,46,60024360,Heerlen,Netherlands,COMP (42); SOCI (32); ENGI (7),8937994200
+9-s2.0-54929502400,,Fancsali,S.E.,Stephen E.,Carnegie Institute,41,126173372,Carnegie,United States,COMP (71); MATH (7); SOCI (4),54929502400
+9-s2.0-6603405804,,DiCerbo,K.E.,Kristen Eignor,Arizona State University,35,60003892,Tempe,United States,SOCI (29); COMP (20); PSYC (13),6603405804
+9-s2.0-22633386500,,Breslow,L.,Lori,Massachusetts Institute of Technology,23,60022195,Cambridge,United States,SOCI (16); COMP (9); ENGI (8),22633386500
+9-s2.0-48561096600,,González-Brenes,J.P.,José P.,"Chegg, Inc.",18,60159741,Santa Clara,United States,COMP (28); MATH (5); SOCI (2),48561096600
+9-s2.0-9040602600,,Haywood,J.,Jeff,The University of Edinburgh,14,60027272,Edinburgh,United Kingdom,SOCI (13); COMP (6); MATH (1),9040602600
+9-s2.0-55603802600,0000-0003-3812-0262,Shore,J.,Jesse,Questrom School of Business,13,60116524,Boston,United States,SOCI (12); BUSI (12); COMP (7),55603802600
+9-s2.0-36469995900,,Falakmasir,M.H.,Mohammad Hassan,University of Pittsburgh,12,60015543,Pittsburgh,United States,COMP (20); SOCI (3); NEUR (1),36469995900
+9-s2.0-53363531500,,Day,S.L.,Scott L.,University of Illinois Springfield,11,60005820,Springfield,United States,SOCI (12); COMP (9),53363531500
+9-s2.0-57189380630,0000-0002-6711-3435,Berman,S.R.,Susan R.,"Carnegie Learning, Inc.",10,100509448,Pittsburgh,United States,COMP (20); MATH (2); SOCI (2),57189380630
+9-s2.0-56912388900,,Papathoma,T.,Tina,Fachhochschule für Technik und Wirtschaft Berlin,8,60028498,Berlin,Germany,COMP (15); MATH (3); SOCI (3),56912388900
+9-s2.0-55789657600,,Kelly,K.M.,Kim M.,Worcester Polytechnic Institute,8,60011410,Worcester,United States,COMP (11); MATH (2); SOCI (2),55789657600
+9-s2.0-53363309700,,Bogle,L.R.,Leonard Ray,University of Illinois Springfield,7,60005820,Springfield,United States,COMP (8); SOCI (7),53363309700
+9-s2.0-57189376585,,Baek,J.,Jiye,Korea University Business School,5,60212025,Seoul,South Korea,COMP (7); BUSI (6); DECI (4),57189376585
+9-s2.0-57189390817,,Langston,J.,Jacob,Georgia Institute of Technology,1,60019647,Atlanta,United States,COMP (3); SOCI (1),57189390817
+9-s2.0-57189390671,,Lupiani,I.,Isabel,Georgia Institute of Technology,1,60019647,Atlanta,United States,COMP (3); SOCI (1),57189390671
+9-s2.0-57189387585,,Irish,L.,Liam,Georgia Institute of Technology,1,60019647,Atlanta,United States,COMP (3); SOCI (1),57189387585
+9-s2.0-57189385297,,Lustig,M.,Mike,Georgia Institute of Technology,1,60019647,Atlanta,United States,COMP (3); SOCI (1),57189385297
+9-s2.0-57189384731,,Navarro-Suarez,G.,Gerado,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,1,60106550,Potsdam,Germany,COMP (3); SOCI (1),57189384731
+9-s2.0-57189383346,,Lam,Y.,Yeeling,Georgia Institute of Technology,1,60019647,Atlanta,United States,COMP (3); SOCI (1),57189383346
+9-s2.0-57189382578,,Ashby,W.,Wade,Georgia Institute of Technology,1,60019647,Atlanta,United States,COMP (3); SOCI (1),57189382578
+9-s2.0-57189381495,,Sathi,R.,Rowshan,Hasso-Plattner-Institut für Softwaresystemtechnik GmbH,1,60106550,Potsdam,Germany,COMP (3); SOCI (1),57189381495
+9-s2.0-57189381108,,Smiley,A.,Angela,Georgia Institute of Technology,1,60019647,Atlanta,United States,COMP (3); SOCI (1),57189381108
+9-s2.0-57189374946,,Pettoruto,P.,Paige,Georgia Institute of Technology,1,60019647,Atlanta,United States,COMP (3); SOCI (1),57189374946
+9-s2.0-7003691791,,Breazeal,C.L.,Cynthia L.,Massachusetts Institute of Technology,282,60022195,Cambridge,United States,COMP (424); ENGI (133); SOCI (39),7003691791
+9-s2.0-7005324365,,Dix,A.J.,Alan John,Swansea University,224,60004572,Swansea,United Kingdom,COMP (429); MATH (35); SOCI (30),7005324365
+9-s2.0-35589119600,,Morris,R.D.,Robin D.,Georgia State University,145,60012387,Atlanta,United States,PSYC (172); MEDI (102); SOCI (58),35589119600
+9-s2.0-57193818352,0000-0003-1060-2956,Wang,Y.,Yan,Worcester Polytechnic Institute,98,60011410,Worcester,United States,MATE (76); ENER (60); CHEM (48),57193818352
+9-s2.0-7402497731,,Wolf,M.,Maryanne,Tufts University,73,60023143,Medford,United States,SOCI (59); PSYC (57); MEDI (17),7402497731
+9-s2.0-25825842400,,Vihavainen,A.,Arto,Helsingin Yliopisto,52,60002952,Helsinki,Finland,COMP (65); SOCI (31); MATH (8),25825842400
+9-s2.0-6602885272,,Pinkard,N.,Nichole,Northwestern University,46,60007363,Evanston,United States,COMP (50); SOCI (46); ENGI (5),6602885272
+9-s2.0-16040033600,,Martin,C.K.,Caitlin Kennedy,Independent Scholar,40,101833911,Oakland,United States,SOCI (38); COMP (37); ENGI (6),16040033600
+9-s2.0-56287013900,,Chaplot,D.S.,Devendrá Singh,Meta,27,60271648,Menlo Park,United States,COMP (46); SOCI (9); ARTS (6),56287013900
+9-s2.0-27567593400,,Atapattu,T.,Thushari,The University of Adelaide,23,60009512,Adelaide,Australia,COMP (29); SOCI (8); MATH (7),27567593400
+9-s2.0-57189382725,,Leppänen,L.J.,Leo J.,Helsingin Yliopisto,21,60002952,Helsinki,Finland,COMP (39); SOCI (10); ARTS (4),57189382725
+9-s2.0-26036277500,,Nacu,D.C.,Denise C.,DePaul University,21,60026860,Chicago,United States,COMP (28); SOCI (21); ENGI (5),26036277500
+9-s2.0-7201561933,,Orr,J.L.,John Lindsay,Toll House,16,120638591,Innerleithen,United Kingdom,MATH (19); COMP (4); SOCI (1),7201561933
+9-s2.0-56597749000,,Adjei,S.A.,Seth Akonor,Worcester Polytechnic Institute,15,60011410,Worcester,United States,COMP (33); SOCI (6); MATH (2),56597749000
+9-s2.0-55923699600,,Kovacs,G.,Geza,"San Francisco Performances, Inc.",14,112952820,San Francisco,United States,COMP (40); SOCI (2),55923699600
+9-s2.0-13605625900,,Roussev,B.,Boris,Google LLC,14,60006191,Mountain View,United States,COMP (19); SOCI (2); MATH (1),13605625900
+9-s2.0-26537481600,,Gottwald,S.,Stephanie,Tufts University,12,60023143,Medford,United States,PSYC (11); SOCI (11); COMP (3),26537481600
+9-s2.0-57865561800,,Kim,J.,Jihie,Samsung Group,9,60010484,Suwon,South Korea,COMP (16); SOCI (2); ARTS (1),57865561800
+9-s2.0-6506810010,,Galyean,T.A.,Tinsley A.,MIT Media Lab,8,60002243,Cambridge,United States,COMP (12); PSYC (2); ENGI (1),6506810010
+9-s2.0-56461324500,,Woodgate,A.,Amy,The University of Edinburgh,6,60027272,Edinburgh,United Kingdom,COMP (5); SOCI (5); MATH (1),56461324500
+9-s2.0-55790398700,,Deutsch,A.,Amit,Google LLC,6,60006191,Mountain View,United States,COMP (15); MATH (1); SOCI (1),55790398700
+9-s2.0-56244760800,,Schutzenhofer,M.C.,Michael C.,DePaul University,5,60026860,Chicago,United States,COMP (6); NEUR (4); PSYC (3),56244760800
+9-s2.0-57189391384,,Scott,A.M.,Anne Marie,Athabasca University,4,60018510,Athabasca,Canada,SOCI (4); COMP (3); ENGI (1),57189391384
+9-s2.0-57189380264,,Ou,C.,Chaohua,Georgia Institute of Technology,4,60019647,Atlanta,United States,COMP (6); SOCI (2); MATH (1),57189380264
+9-s2.0-56904320900,,Rhim,E.,Eunhee,Samsung Electronics Co. Ltd.,4,60003780,Suwon,South Korea,COMP (6); BUSI (1); DECI (1),56904320900
+9-s2.0-57189383671,,Mavon,K.,Kimia,Harvard University,3,60009982,Cambridge,United States,COMP (4); SOCI (2); BUSI (1),57189383671
+9-s2.0-57189382475,,Vapaakallio,L.,Lassi,Helsingin Yliopisto,2,60002952,Helsinki,Finland,COMP (4); SOCI (1),57189382475
+9-s2.0-56597906500,,Simakov,P.,Pavel,Google LLC,2,60006191,Mountain View,United States,COMP (6); SOCI (2),56597906500
+9-s2.0-56597347800,,Cox,J.,John,Google LLC,2,60006191,Mountain View,United States,COMP (6); SOCI (2),56597347800
+9-s2.0-57189383221,,Gainer,M.,Mike,Google LLC,1,60006191,Mountain View,United States,COMP (3); SOCI (1),57189383221
+9-s2.0-57189377207,,Owers,J.,James,The University of Edinburgh,1,60027272,Edinburgh,United Kingdom,COMP (3); SOCI (1),57189377207
+9-s2.0-57189376327,,Haynes,D.F.,Daniel F.,Georgia Institute of Technology,1,60019647,Atlanta,United States,COMP (3); SOCI (1),57189376327
+9-s2.0-56069542600,,Lenaghan,M.,Michael,Google LLC,1,60006191,Mountain View,United States,COMP (3); SOCI (1),56069542600
